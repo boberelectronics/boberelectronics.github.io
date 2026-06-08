@@ -296,6 +296,14 @@ section { padding: var(--gap) 24px; }
   color: var(--accent);
 }
 
+.featured-disclaimer {
+  font-size: 0.82rem;
+  color: var(--text3);
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 0;
+}
+
 /* Featured Reviews sub-block */
 .featured-reviews-wrap {
   border-top: 1px solid var(--border);
