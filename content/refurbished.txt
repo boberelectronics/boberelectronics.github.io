@@ -1,0 +1,15 @@
+[REFURBISHED ITEM 1]
+Title: 2016 Lenovo Thinkpad: Core i7-6600U, 24GB DDR4, GeForce GTX 930M [cite: 847]
+ImagePath: assets/images/refurbished/thinkpad.jpg
+
+[REFURBISHED ITEM 2]
+Title: EVGA GeForce GTX 1070 Ti 8GB: Repasted, Repadded, Cleaned [cite: 847]
+ImagePath: assets/images/refurbished/gtx1070ti.jpg
+
+[REFURBISHED ITEM 3]
+Title: Blower GeForce RTX 3070: Repasted, Repadded, Cleaned [cite: 847]
+ImagePath: assets/images/refurbished/rtx3070.jpg
+
+[REFURBISHED ITEM 4]
+Title: COMBO: ASRock Z690 Phantom Gaming + Intel Core i7-12700K [cite: 847]
+ImagePath: assets/images/refurbished/z690-combo.jpg

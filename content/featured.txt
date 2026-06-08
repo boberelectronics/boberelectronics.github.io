@@ -1,0 +1,6 @@
+[FEATURED BUILD 5]
+Title: RTX 3080, Ryzen 5 7500F, 32GB DDR5, 1TB NVMe SSD, WiFi - Custom Gaming PC
+Price: $1150
+Description: Up next for sale is a PC designed to crush 1440p gaming with high FPS. Equipped with the beastly RTX 3080 and the Ryzen 5 7500F, this system not only has the raw performance to handle almost anything you throw at it, but can also easily be upgraded down the line. 
+Components: GPU: EVGA FTW3 GeForce RTX 3080 (Used) | CPU: AMD Ryzen 5 7500F (6C/12T) | RAM: Corsair Vengeance RGB 32GB DDR5 6000 MT/s | Storage: 1TB M.2 NVMe SSD | Cooler: Thermalright Aqua Elite V4 360mm AIO | PSU: High Power HP1 850W 80+ Gold (Tier B) | Motherboard: Gigabyte B650M Gaming Plus WiFi | Case: DIYPC N1 (Black)
+ImagePath: assets/images/featured/3080black.jpg

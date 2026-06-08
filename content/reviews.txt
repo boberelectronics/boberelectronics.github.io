@@ -1,0 +1,209 @@
+[FEATURED_REVIEW_1]
+User: Carson
+Date: October 7, 2025
+Text: Very professional with good communication and punctuality. Everything was just as it was listed and PC has been running great. Would definitely recommend!
+
+[FEATURED_REVIEW_2]
+User: Daniel
+Date: September 16, 2025
+Text: My purchase went extremely smoothly. Communication was on point and the PC has been functioning perfectly with no issues.
+
+[FEATURED_REVIEW_3]
+User: Joe
+Date: March 21, 2025
+Text: Incredible overall experience. The computer I purchased was in perfect condition, with all of the software necessary for it to run well already installed. The seller was also very responsive and communicative throughout the whole process. Would certainly buy from again, thank you so much!
+
+[FEATURED_REVIEW_4]
+User: Kunal
+Date: September 23, 2024
+Text: This was one of the greatest purchases I ever did on FB Marketplace. Great config and well setup at a reasonable price. Smooth communication and super helpful. Definitely recommend going for it if you are happy with the config! This one runs games smoothly on high settings at 2K resolution. Thanks a lot man for this, you rock.
+
+[FEATURED_REVIEW_5]
+User: Restored-Jawa#1251
+Date: August 8, 2025
+Text: Bober Electronics was stellar! They messaged me first off letting me know if I had any questions or concerns I could let them know directly. They gave regular updates, answered all my questions, and the PC was double-packed securely for shipping. They did everything a professional custom workshop should be doing and made a completely seamless experience. Highly recommended.
+
+[STANDARD_REVIEW_1]
+User: Tyrell
+Date: September 7, 2025
+Text: Product came out just as described. They even tested it to make sure it works for me. Very much appreciated! Thanks again!
+
+[STANDARD_REVIEW_2]
+User: Sergio
+Date: August 23, 2025
+Text: Purchase exactly as described. Very nice and reliable person. Definitely will recommend to others who are searching for built gaming PCs! :)
+
+[STANDARD_REVIEW_3]
+User: Amanda
+Date: August 12, 2025
+Text: Great product, works well. Very kind and communicative. Would buy from him again!
+
+[STANDARD_REVIEW_4]
+User: Luke
+Date: May 22, 2025
+Text: Product was exactly as shown in the images and worked amazingly when I got it home! Build is super clean, very fast and amazingly quiet. Seller was quick to reply, punctual and professional. Very excited to use it!!
+
+[STANDARD_REVIEW_5]
+User: Christian
+Date: April 12, 2025
+Text: Todo excelente, mucha comunicación, dudas aclaradas. 100% recomendado!
+
+[STANDARD_REVIEW_6]
+User: Gerardo
+Date: September 25, 2024
+Text: Great seller, very nice and informative.
+
+[STANDARD_REVIEW_7]
+User: Manon
+Date: August 26, 2024
+Text: Purchase as described and went over anything I asked and more! Very passionate and kind seller. Can contact them in the future if anything happens.
+
+[STANDARD_REVIEW_8]
+User: Cooper
+Date: June 18, 2024
+Text: The PC is exactly as advertised, and runs great. Easy to reach the seller who is very knowledgeable and manages to keep you in the loop about your PC whenever needed or requested. Would definitely recommend the product and seller to anyone looking for a great value and/or a great build.
+
+[STANDARD_REVIEW_9]
+User: Josh
+Date: March 19, 2024
+Text: Great experience, computer was as it stated and the price was very reasonable. The seller was informative on the item, and when I had a small configuration setup issue on my end, the seller took the time to walk me through getting it resolved. Highly recommend and I will be purchasing my next computer through this seller!
+
+[STANDARD_REVIEW_10]
+User: Aawaj
+Date: February 21, 2024
+Text: I bought the PC, it was really great for a great price.
+
+[STANDARD_REVIEW_11]
+User: Cliveton
+Date: February 18, 2024
+Text: Respectful seller, very friendly and informative.
+
+[STANDARD_REVIEW_12]
+User: Michael
+Date: January 25, 2024
+Text: Very pleasant interaction and very informative, would definitely recommend buying from here.
+
+[STANDARD_REVIEW_13]
+User: Luis
+Date: December 31, 2023
+Text: Great communication, very nice and respectful. PC works great! Thank you.
+
+[STANDARD_REVIEW_14]
+User: Obadiah
+Date: September 27, 2023
+Text: This wholesome family who sells PCs exactly as described did a great job on the PC I bought from them. I traveled two hours to pick up this beast of a machine and it was worth every minute as it works exactly as intended and looks great. Also it was very generously priced, definitely got more than I paid for with my setup. They gave great help on setting things up after the purchase and checked in to confirm everything was in working order. They are very helpful and informative.
+
+[STANDARD_REVIEW_15]
+User: Detachable-Jawa#1121
+Date: May 13, 2026
+Text: You should definitely consider buying from Bober Electronics. They make incredible PCs at affordable prices while building them well with good quality parts. Also very fast to respond and easy to talk with. 10/10 would buy from again!
+
+[STANDARD_REVIEW_16]
+User: Illustrious-Jawa#5954
+Date: January 16, 2026
+Text: Everything was perfect! Thank you!
+
+[STANDARD_REVIEW_17]
+User: Friendly-Jawa#2533
+Date: January 13, 2026
+Text: Works out of the box, no issues found during games. Would recommend!
+
+[STANDARD_REVIEW_18]
+User: Revolutionary-Jawa#8815
+Date: September 18, 2025
+Text: Best purchase I made in a while. 10/10 service and phenomenal build speeds!
+
+[STANDARD_REVIEW_19]
+User: Tantalizing-Jawa#7650
+Date: August 28, 2025
+Text: Very helpful, easy unboxing, and incredibly quick shipping.
+
+[STANDARD_REVIEW_20]
+User: Trusting-Jawa#3551
+Date: August 28, 2025
+Text: 10/10 experience! Was very easy to reach out and get in contact with when there were some slight shipping carrier delays. Everything works great and the build is amazing! Very helpful and kind! If I ever need a new build, I know exactly where to go.
+
+[STANDARD_REVIEW_21]
+User: Honest-Jawa#1963
+Date: August 23, 2025
+Text: If you want a great product and awesome support, this is the place. Product arrived as expected and working flawlessly. Great communication from shipping updates to checking in about customer satisfaction. I haven't had a great customer experience like this in a long time. Highly recommend. I have a very happy 14-year-old son!
+
+[STANDARD_REVIEW_22]
+User: Seamless-Jawa#5437
+Date: July 16, 2025
+Text: Very fast and easy process! Works great!
+
+[STANDARD_REVIEW_23]
+User: Shmoolio
+Date: June 9, 2025
+Text: I would greatly recommend buying from this seller if it's your first PC build! He has outstanding support and great knowledge about computers.
+
+[STANDARD_REVIEW_24]
+User: Bir Bir Patapim
+Date: May 8, 2025
+Text: Came fast, PC runs great for a good price, and the seller was very helpful when I was setting it up. Would absolutely recommend this seller.
+
+[STANDARD_REVIEW_25]
+User: Effectual-Jawa#0051
+Date: May 7, 2025
+Text: Professional, great communication, and helpful. First PC purchase and it was a very smooth process. Highly recommend this seller.
+
+[STANDARD_REVIEW_26]
+User: Legacy
+Date: April 20, 2025
+Text: This was my first PC I ever got and it works great. I was on a tight budget so I'm very grateful I was able to find this high-quality option from a great builder.
+
+[STANDARD_REVIEW_27]
+User: Fragrant-Jawa#0646
+Date: February 22, 2025
+Text: Professional. Good communication. Helpful. Everything was smooth sailing. This is my first time buying here, so I'm happy Bober Electronics was a part of it.
+
+[STANDARD_REVIEW_28]
+User: Dynamic-Jawa#3995
+Date: January 29, 2025
+Text: They were so helpful and knowledgeable, and for the price, I got an absolutely amazing computer!
+
+[STANDARD_REVIEW_29]
+User: Admiring-Jawa#0695
+Date: December 2, 2024
+Text: Great customer service with thorough updates, texts, and technical setup notes.
+
+[STANDARD_REVIEW_30]
+User: Profound-Jawa#5468
+Date: July 20, 2024
+Text: Great communication with the buyer, highly recommend 10/10.
+
+[STANDARD_REVIEW_31]
+User: Shiny-Jawa#2910
+Date: June 27, 2024
+Text: Seller is very nice and helpful, also very professional and replies quickly! It shipped very fast, everything came exactly as described, and it arrived with really secure packaging. 
+
+[STANDARD_REVIEW_32]
+User: Omega Point PCs
+Date: January 19, 2024
+Text: Quick shipping, excellent custom packaging, and the item arrived exactly as described. Would certainly buy from again.
+
+[STANDARD_REVIEW_33]
+User: Upscale-Jawa#8489
+Date: August 2, 2023
+Text: Friendly and quick shipper! Would definitely recommend to anyone looking for components or builds.
+
+[STANDARD_REVIEW_34]
+User: pcgr_37 (eBay)
+Text: Exactly as described, worked perfectly, and arrived right on time.
+
+[STANDARD_REVIEW_35]
+User: shop.herman (eBay)
+Text: Great seller, hardware came working perfectly. Packaging was top tier. Seller responded to messages quickly and even benchmarked the components before shipping. 10/10, what a guy!
+
+[STANDARD_REVIEW_36]
+User: sland 4239 (eBay)
+Text: Very good packaging, seller made sure my package was secure and came in the mail in perfect condition.
+
+[STANDARD_REVIEW_37]
+User: necompncsinc (eBay)
+Text: What a great system. Works perfectly! Thank you.
+
+[STANDARD_REVIEW_38]
+User: stevesutfi 0 (eBay)
+Text: Arrived on time and exactly as described. Great responsiveness to messages as well!
