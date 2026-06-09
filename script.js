@@ -344,6 +344,15 @@ function getGpuTier(filename) {
   return 8;
 }
 
+function isLegacyCPU(filename) {
+  if (/\bXeon\b/i.test(filename)) return true;
+  // Bare "i3/i5/i7" with no model number (e.g. "Core i7" not followed by digits)
+  if (/\b(?:Core\s+)?i[3579](?![-\s]*\d)/i.test(filename)) return true;
+  // Intel 4th gen or older: 3-digit model (1st gen) or 4-digit starting 2–4 (2nd–4th gen)
+  if (/\bi[3579]-([2-4]\d{3}|\d{3})[A-Za-z]*\b/i.test(filename)) return true;
+  return false;
+}
+
 function createReviewCard(review) {
   const card = document.createElement('div');
   card.className = 'review-card';
@@ -445,6 +454,8 @@ function renderRefurb() {
 function renderArchive() {
   const list = document.getElementById('archive-list');
   const sorted = [...ARCHIVE_FILES].sort((a, b) => {
+    const legacyDiff = (isLegacyCPU(a) ? 1 : 0) - (isLegacyCPU(b) ? 1 : 0);
+    if (legacyDiff !== 0) return legacyDiff;
     const tierDiff = getGpuTier(a) - getGpuTier(b);
     return tierDiff !== 0 ? tierDiff : b.localeCompare(a, undefined, { numeric: true });
   });
