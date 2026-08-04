@@ -150,6 +150,26 @@ const FEATURED_BUILDS = [
       'assets/images/featured/5070_BACK.png',
     ],
   },
+  {
+    title: 'RX 6900 XT, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi — Custom Gaming PC',
+    price: '$780',
+    description: 'Up next for sale is a PC designed to crush 1440p and 4K gaming. Equipped with the beastly 16GB RX 6900 XT and the 6 core Ryzen 5 5600, this system has the raw performance to handle almost anything you throw at it.',
+    components: [
+      'GPU: AMD Radeon RX 6900XT Red Devil 16GB (Used)',
+      'CPU: AMD Ryzen 5 5600 (6C/12T)',
+      'RAM: G.Skill Ripjaws 16GB DDR4 3200 MT/S',
+      'Storage: 1TB M.2 NVMe SSD',
+      'Cooler: Thermalright Assassin X120 (Black)',
+      'PSU: EVGA 650GT 80+ Gold (Used)',
+      'Motherboard: MSI B550M Pro-VDH WiFi',
+      'Case: BitFenix Nova Mesh ARGB (Black)',
+    ],
+    images: [
+      'assets/images/featured/6900XT_FRONT.png',
+      'assets/images/featured/6900XT_SIDE.png',
+      'assets/images/featured/6900XT_BACK.png',
+    ],
+  },
 ];
 
 // ── Refurbished Items ─────────────────────────────────────────────────────────

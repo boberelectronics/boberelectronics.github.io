@@ -25,3 +25,10 @@ Price: $1330
 Description: Up next for sale is a PC designed to crush 1440p gaming and productivity workloads. Equipped with the beastly RTX 5070 and the 8 core Ryzen 7 5700X, this system has the raw performance to handle nearly anything you throw at it, whether that be ray tracing or video editing.
 Components: GPU: NVIDIA GeForce RTX 5070 12GB GDDR7 (Used) | CPU: AMD Ryzen 7 5700X (8C/16T) | RAM: 32GB DDR4 3200 MT/S (Dual Channel) | Storage: 1TB M.2 NVMe SSD | Cooler: Redragon HL360 ARGB AIO (White) | PSU: High Power HP1 700W 80+ Gold (Tier B+, Used) | Motherboard: ASRock B550M Pro4 | Case: Aerocool D302A (White) | Extra: 9X ARGB Fans
 ImagePath: assets/images/featured/5070_FRONT.png
+
+[FEATURED BUILD 9]
+Title: RX 6900 XT, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC
+Price: $780
+Description: Up next for sale is a PC designed to crush 1440p and 4K gaming. Equipped with the beastly 16GB RX 6900 XT and the 6 core Ryzen 5 5600, this system has the raw performance to handle almost anything you throw at it.
+Components: GPU: AMD Radeon RX 6900XT Red Devil 16GB (Used) | CPU: AMD Ryzen 5 5600 (6C/12T) | RAM: G.Skill Ripjaws 16GB DDR4 3200 MT/S | Storage: 1TB M.2 NVMe SSD | Cooler: Thermalright Assassin X120 (Black) | PSU: EVGA 650GT 80+ Gold (Used) | Motherboard: MSI B550M Pro-VDH WiFi | Case: BitFenix Nova Mesh ARGB (Black)
+ImagePath: assets/images/featured/6900XT_FRONT.png
