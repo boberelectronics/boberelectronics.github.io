@@ -172,7 +172,13 @@ section { padding: var(--gap) 24px; }
 }
 .hero-title .accent { color: var(--accent); }
 .hero-subtitle {
-  font-size: 1.05rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 10px;
+}
+.hero-desc {
+  font-size: 1rem;
   color: var(--text2);
   margin-bottom: 40px;
   max-width: 480px;
