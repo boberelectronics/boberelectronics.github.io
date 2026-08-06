@@ -214,7 +214,7 @@ const ARCHIVE_FILES = [
   'RTX 2060 Super, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $599.png',
   'RTX 2060 Super, Ryzen 5 5600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $600.png',
   'RTX 2070 Super, 2.25TB Storage, Xeon E3, Windows 11 - Custom Gaming PC, Sold for $480 .png',
-  'RTX 2070 Super, Ryzen 5 3500X, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC.png',
+  'RTX 2070 Super, Ryzen 5 3500X, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold 2x for $580.png',
   'RTX 2070 Super, i7-7700K, 16GB DDR4, 4TB Storage - White Gaming PC, Sold for $580.png',
   'RTX 2070, i7-4770, 16GB DDR3, 1TB SSD, WiFi - Gaming PC, Sold for $500.png',
   'RTX 2080 Super, Ryzen 5 3600, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold for $850.png',
