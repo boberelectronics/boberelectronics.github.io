@@ -1,181 +1,212 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bober Electronics | Custom PC Builder</title>
-  <link rel="icon" type="image/png" href="assets/images/favicon.png">
-  <link rel="apple-touch-icon" href="assets/images/favicon.png">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-  <!-- ── Navbar ── -->
-  <nav id="navbar">
-    <div class="nav-inner">
-      <a href="#hero" class="nav-brand">
-        <img src="assets/images/logo.png" alt="Bober Electronics" class="nav-logo">
-        <span>Bober Electronics</span>
-      </a>
-      <button id="hamburger" aria-label="Toggle menu" aria-expanded="false">
-        <span></span><span></span><span></span>
-      </button>
-      <ul class="nav-links">
-        <li><a href="#featured">Featured</a></li>
-        <li><a href="#refurbished">Refurbished</a></li>
-        <li><a href="#store-bar">Store</a></li>
-        <li><a href="#archive">Archive</a></li>
-        <li><a href="#more-reviews">Reviews</a></li>
-      </ul>
-    </div>
-  </nav>
-
-  <!-- ── Section A · Hero ── -->
-  <section id="hero">
-    <div class="hero-inner">
-      <h1 class="hero-title">Bober <span class="accent">Electronics</span></h1>
-      <p class="hero-subtitle">Quality Computers, Competitive Prices.</p>
-      <p class="hero-desc">We build custom gaming PCs and restore quality refurbished hardware, all rigorously stress tested to ensure satisfaction.</p>
-      <div class="hero-stats">
-        <div class="stat">
-          <span class="stat-num">150+</span>
-          <span class="stat-label">PCs Sold</span>
-        </div>
-        <div class="stat-divider"></div>
-        <div class="stat">
-          <span class="stat-num">250+</span>
-          <span class="stat-label">Five-Star Reviews</span>
-        </div>
-      </div>
-      <a href="#featured" class="hero-cta">Browse Builds</a>
-    </div>
-    <div class="hero-grid-bg"></div>
-  </section>
-
-  <!-- ── Section B · Featured Builds + Top Feedback ── -->
-  <section id="featured">
-    <div class="section-inner">
-      <div class="section-header">
-        <h2>Featured Builds</h2>
-        <p class="section-sub">Click any build to view full specs, components, and photos.</p>
-        <a href="#archive" class="archive-link-btn">
-          Click here to see the full archive
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#070709">
+    <meta name="description" content="Custom gaming PCs and refurb & restored hardware. Quality Computers - Competitive Prices. Over $120K in sales, 80+ five-star reviews, and 20+ refurb & restored GPUs sold.">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Bober Electronics — Quality Computers - Competitive Prices">
+    <meta property="og:description" content="Custom gaming PCs and restored computer hardware. Explore selected past builds and our official stores.">
+    <meta property="og:image" content="https://boberelectronics.github.io/assets/images/webp/closeups/closeup-01-1280.webp">
+    <meta property="og:url" content="https://boberelectronics.github.io/">
+    <title>Bober Electronics — Custom PCs &amp; Restored Hardware</title>
+    <link rel="canonical" href="https://boberelectronics.github.io/">
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="apple-touch-icon" href="assets/images/favicon.png">
+    <link rel="preload" href="assets/fonts/inter-regular.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="assets/images/webp/closeups/closeup-01-1280.webp">
+    <link rel="stylesheet" href="style.css?v=20261017-finishing-2">
+    <script src="data.js?v=20261017-hardware-quantities-1" defer></script>
+    <script src="script.js?v=20261017-finishing-2" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#site-content">Skip to content</a>
+    <header id="navbar" class="site-header">
+      <div class="nav-inner">
+        <a href="#hero" class="nav-brand" aria-label="Bober Electronics home">
+          <img src="assets/images/webp/logo.webp" class="nav-logo" width="28" height="22" alt="">
+          <span class="nav-brand-text">Bober Electronics</span>
         </a>
+        <nav class="nav-links" id="nav-links" aria-label="Main navigation">
+          <a href="#store-bar">Marketplaces</a>
+          <a href="#featured">Featured builds</a>
+          <a href="#testimonials">Reviews</a>
+          <a href="#refurbished">Refurb &amp; restored hardware</a>
+          <a href="#archive">PC archive</a>
+          <a href="#refurb-archive">Refurb &amp; restored archive</a>
+        </nav>
+        <button id="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="nav-links"><span></span><span></span></button>
       </div>
-      <div id="featured-grid" class="build-grid"></div>
-      <p class="featured-disclaimer"><em>Note: Check my selling pages for the latest availability and newest PC drops.</em></p>
-
-      <div class="featured-reviews-wrap">
-        <div class="featured-reviews-header">
-          <span class="section-tag">Top Feedback</span>
-          <h3>What Buyers Are Saying</h3>
-        </div>
-        <div id="featured-reviews-list" class="featured-reviews-list"></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Section C · Refurbished Tech ── -->
-  <section id="refurbished">
-    <div class="section-inner">
-      <div class="section-header">
-        <span class="section-tag">Restored</span>
-        <h2>Refurbished &amp; Restored Tech</h2>
-        <p class="section-sub">We also sell high-quality, fully tested refurbished hardware.</p>
-        <p class="section-disclaimer"><em>Note: This is not a complete inventory, just a few examples of our restored hardware.</em></p>
-      </div>
-      <div id="refurb-grid" class="refurb-grid"></div>
-    </div>
-  </section>
-
-  <!-- ── Section D · Credibility & Store Action Bar ── -->
-  <section id="store-bar">
-    <div class="store-bar-inner">
-      <div class="accolades">
-        <div class="accolade">
-          <svg class="accolade-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M17 3H7l-2 7c0 2.76 2.24 5 5 5s5-2.24 5-5l-2-7z"/><path d="M5 10H3a1 1 0 0 1-1-1V6h4"/><path d="M19 10h2a1 1 0 0 0 1-1V6h-4"/></svg>
-          <div class="accolade-text">
-            <strong>Top 5% Seller (2 Years) &amp; Verified Seller (Past 3 Years)</strong>
-            <span>on Jawa</span>
+    </header>
+    <main id="site-content">
+      <section id="hero" aria-labelledby="hero-title">
+        <div class="hero-container">
+          <div class="hero-copy">
+            <p class="hero-eyebrow">Custom PCs &amp; restored hardware</p>
+            <h1 id="hero-title" class="hero-title">Quality Computers<span class="sr-only"> - </span><br>Competitive Prices</h1>
+            <div class="hero-actions">
+              <a href="#featured" class="hero-cta">Explore past builds</a>
+              <a href="#refurbished" class="hero-secondary-btn">Refurb &amp; restored hardware</a>
+            </div>
+            <div class="hero-metrics track-record" aria-label="Our track record across selling platforms">
+              <div class="metric-item"><strong class="metric-num">150+</strong><span class="metric-label">Custom PCs sold</span></div>
+              <div class="metric-item"><strong class="metric-num">20+</strong><span class="metric-label">Refurb &amp; restored GPUs sold</span></div>
+              <div class="metric-item"><strong class="metric-num">80+</strong><span class="metric-label">Five-star reviews</span></div>
+              <div class="metric-item"><strong class="metric-num">$120K+</strong><span class="metric-label">Total sales across platforms</span></div>
+            </div>
+          </div>
+          <div class="hero-showcase">
+            <div class="hero-stage hero-carousel" role="region" aria-roledescription="carousel" aria-label="Close-ups from our builds">
+              <div id="hero-slides" class="hero-slides" aria-live="off"></div>
+              <div class="hero-carousel-controls">
+                <div id="hero-dots" class="hero-dots" role="group" aria-label="Choose a close-up photograph"></div>
+                <span id="hero-position" class="hero-position sr-only">01 / 08</span>
+                <div class="hero-transport">
+                  <button type="button" id="hero-prev" aria-label="Previous close-up photograph">‹</button>
+                  <button type="button" id="hero-next" aria-label="Next close-up photograph">›</button>
+                  <button type="button" id="hero-pause" aria-label="Pause slideshow"><span class="hero-pause-symbol" aria-hidden="true">Ⅱ</span></button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="accolade-divider"></div>
-        <div class="accolade">
-          <svg class="accolade-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-          <div class="accolade-text">
-            <strong>Earned &ldquo;Highly Rated&rdquo; Badge</strong>
-            <span>Facebook Marketplace</span>
+      </section>
+      <section id="store-bar" aria-labelledby="stores-title">
+        <div class="store-bar-inner">
+          <h2 id="stores-title" class="store-heading">Our marketplaces</h2>
+          <div class="marketplace-grid">
+            <article class="marketplace-card">
+              <h3>Jawa</h3>
+              <p>Top 5% Seller · 2 years<br>Verified Seller · 3 consecutive years</p>
+              <a class="store-btn" href="https://www.jawa.gg/sp/62030/bober-electronics" target="_blank" rel="noopener noreferrer">View on Jawa ↗</a>
+            </article>
+            <article class="marketplace-card">
+              <h3>eBay</h3>
+              <p>Business Seller</p>
+              <a class="store-btn" href="https://www.ebay.com/usr/bober_electronics" target="_blank" rel="noopener noreferrer">View on eBay ↗</a>
+            </article>
+            <article class="marketplace-card">
+              <h3>Facebook Marketplace</h3>
+              <p>Earned the “Highly Rated” badge</p>
+              <a class="store-btn" href="https://www.facebook.com/marketplace/profile/61550627987474/" target="_blank" rel="noopener noreferrer">View on Marketplace ↗</a>
+            </article>
           </div>
         </div>
-      </div>
-      <div class="store-actions">
-        <a href="https://www.jawa.gg/sp/62030/bober-electronics" class="store-btn btn-jawa" target="_blank" rel="noopener">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
-          View on Jawa
-        </a>
-        <a href="https://www.ebay.com/usr/bober_electronics" class="store-btn btn-ebay" target="_blank" rel="noopener">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
-          View on eBay
-        </a>
-        <a href="https://www.facebook.com/marketplace/profile/61550627987474/" class="store-btn btn-fb" target="_blank" rel="noopener">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
-          Facebook Marketplace
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Section E · The Archive ── -->
-  <section id="archive">
-    <div class="section-inner">
-      <div class="section-header">
-        <span class="section-tag">Past Work</span>
-        <h2>The Archive</h2>
-        <p class="section-sub">(almost) Every build we&rsquo;ve completed and sold</p>
-      </div>
-      <p class="archive-disclaimer">This portfolio is a curated selection. More builds are actively in progress, and some older systems are not displayed here.</p>
-      <div id="archive-list" class="archive-list"></div>
-    </div>
-  </section>
-
-  <!-- ── Section F · More Reviews Wall ── -->
-  <section id="more-reviews">
-    <div class="section-inner">
-      <div class="section-header">
-        <span class="section-tag">Customer Feedback</span>
-        <h2>More Customer Feedback</h2>
-        <p class="reviews-wall-disclaimer"><em>Note: This is a curated archive of our recent customer experiences. It does not display all 250+ total reviews as some older marketplace listings are no longer active.</em></p>
-      </div>
-      <div id="more-reviews-list" class="more-reviews-list"></div>
-    </div>
-  </section>
-
-  <!-- ── Footer ── -->
-  <footer id="footer">
-    <p class="footer-copy">&copy; 2024 Bober Electronics. All rights reserved.</p>
-  </footer>
-
-  <!-- ── Modal ── -->
-  <div id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
-    <div id="modal-content">
-      <button id="modal-close" aria-label="Close modal">&times;</button>
-      <div id="modal-gallery">
-        <div id="modal-img-wrap">
-          <img id="modal-main-img" src="" alt="">
+      </section>
+      <section id="featured" aria-labelledby="featured-title">
+        <div class="section-inner">
+          <div class="section-header-bar">
+            <div class="section-header-titles">
+              <span class="section-overline">Custom PCs</span>
+              <h2 id="featured-title">Featured past builds</h2>
+              <p class="section-sub">Just a few of our past PC sales, with full specs and photo galleries.</p>
+            </div>
+            <div class="section-header-actions"><a id="featured-archive-link" class="button button-light" href="#archive">View full PC build archive</a></div>
+          </div>
+          <div id="featured-grid" class="build-grid"></div>
+          <div class="section-bottom">
+            <p class="fine-print">Past builds. Find current availability in our <a href="#store-bar">stores</a>.</p>
+          </div>
+          <div id="testimonials" class="featured-reviews-wrap" role="region" aria-labelledby="testimonials-title">
+            <div class="featured-reviews-header"><span class="section-overline">Customer feedback</span><h2 id="testimonials-title">What buyers are saying</h2></div>
+            <div id="featured-reviews-list" class="featured-reviews-bento"></div>
+          </div>
         </div>
-        <div id="modal-thumbs"></div>
+      </section>
+      <section id="refurbished" aria-labelledby="refurb-title">
+        <div class="section-inner">
+          <div class="section-header-bar">
+            <div class="section-header-titles">
+              <span class="section-overline">Refurb &amp; restored hardware</span>
+              <h2 id="refurb-title">Featured hardware</h2>
+              <p class="section-sub">A few highlights from our past hardware sales.</p>
+            </div>
+            <div class="section-header-actions"><a id="refurb-archive-link" class="button button-light" href="#refurb-archive">View full refurb &amp; restored archive</a></div>
+          </div>
+          <div id="refurb-grid" class="hardware-feature-grid refurb-featured-grid"></div>
+          <p class="hardware-store-note fine-print">Past sales shown. Find current hardware in our <a href="#store-bar">stores</a>.</p>
+        </div>
+      </section>
+      <section id="archive" aria-labelledby="archive-title">
+        <div class="section-inner">
+          <div class="section-header-bar">
+            <div class="section-header-titles">
+              <span class="section-overline">The build collection</span>
+              <h2 id="archive-title">PC Build Archive</h2>
+              <p class="section-sub">Browse past PCs by graphics generation.</p>
+              <p class="fine-print archive-note">For more details and original listings, visit our <a href="#store-bar">selling pages</a>.</p>
+            </div>
+          </div>
+          <form class="archive-controls" role="search" aria-label="Search the PC build archive" onsubmit="return false">
+            <div class="search-wrap"><label class="sr-only" for="archive-search">Search the PC build archive</label><svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input class="archive-search" id="archive-search" type="search" placeholder="Search GPU, processor, or specifications…" autocomplete="off"></div>
+            <label class="sr-only" for="archive-filter">Filter PCs by GPU generation</label><select id="archive-filter" hidden><option value="all">All builds</option><option value="rtx50">RTX 50 series</option><option value="rx9000">Radeon RX 9000</option><option value="rtx40">RTX 40 series</option><option value="rx7000">Radeon RX 7000</option><option value="rx6000">Radeon RX 6000</option><option value="rtx30">RTX 30 series</option><option value="rtx20">RTX 20 series</option><option value="rx5000">RX 5000</option><option value="gtx">GeForce GTX</option></select>
+            <div class="filter-tabs" id="pc-filter-tabs" role="group" aria-label="Filter PCs by GPU generation"><button class="filter-tab is-active" type="button" data-pc-filter="all" aria-pressed="true">All builds</button><button class="filter-tab" type="button" data-pc-filter="rtx50" aria-pressed="false">RTX 50 series</button><button class="filter-tab" type="button" data-pc-filter="rx9000" aria-pressed="false">Radeon RX 9000</button><button class="filter-tab" type="button" data-pc-filter="rtx40" aria-pressed="false">RTX 40 series</button><button class="filter-tab" type="button" data-pc-filter="rx7000" aria-pressed="false">Radeon RX 7000</button><button class="filter-tab" type="button" data-pc-filter="rx6000" aria-pressed="false">Radeon RX 6000</button><button class="filter-tab" type="button" data-pc-filter="rtx30" aria-pressed="false">RTX 30 series</button><button class="filter-tab" type="button" data-pc-filter="rtx20" aria-pressed="false">RTX 20 series</button><button class="filter-tab" type="button" data-pc-filter="rx5000" aria-pressed="false">RX 5000</button><button class="filter-tab" type="button" data-pc-filter="gtx" aria-pressed="false">GeForce GTX</button></div>
+          </form>
+          <div id="archive-list" class="archive-grid"></div>
+          <div id="archive-empty" class="empty-state" hidden><p>No builds match your search.</p><button id="archive-reset" class="text-link" type="button">Reset filters</button></div>
+          <div class="archive-load"><p id="archive-load-context" class="archive-load-context">A curated selection of past PC sales. Some older listings were unavailable when this site was created.</p><button id="archive-load-more" class="button button-light" type="button" aria-controls="archive-list">Show all archived PCs</button></div>
+        </div>
+      </section>
+      <section id="refurb-archive" aria-labelledby="hardware-archive-title">
+        <div class="section-inner">
+          <div class="section-header-bar">
+            <div class="section-header-titles">
+              <span class="section-overline">The hardware collection</span>
+              <h2 id="hardware-archive-title">Refurb &amp; Restored Hardware Archive</h2>
+              <p class="section-sub">Browse previous hardware sales.</p>
+              <p class="fine-print archive-note">For original listings and current availability, visit our <a href="#store-bar">selling pages</a>.</p>
+            </div>
+          </div>
+          <form class="archive-controls" role="search" aria-label="Search the refurb and restored hardware archive" onsubmit="return false">
+            <div class="search-wrap"><label class="sr-only" for="hardware-search">Search refurb and restored hardware</label><svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input class="archive-search" id="hardware-search" type="search" placeholder="Search GPU, CPU, memory, or device…" autocomplete="off"></div>
+            <label class="sr-only" for="hardware-filter">Filter hardware by category</label><select id="hardware-filter" hidden><option value="all">All hardware</option><option value="gpus">Graphics cards</option><option value="cpus">Processors</option><option value="memory">Memory</option><option value="storage">Storage</option><option value="motherboards">Motherboards</option><option value="bundles">Component bundles</option><option value="cooling">Cooling</option><option value="systems">Laptops &amp; mini PCs</option></select>
+            <div class="filter-tabs" id="hardware-filter-tabs" role="group" aria-label="Filter hardware by category"><button class="filter-tab is-active" type="button" data-hardware-filter="all" aria-pressed="true">All hardware</button><button class="filter-tab" type="button" data-hardware-filter="gpus" aria-pressed="false">Graphics cards</button><button class="filter-tab" type="button" data-hardware-filter="cpus" aria-pressed="false">Processors</button><button class="filter-tab" type="button" data-hardware-filter="memory" aria-pressed="false">Memory</button><button class="filter-tab" type="button" data-hardware-filter="storage" aria-pressed="false">Storage</button><button class="filter-tab" type="button" data-hardware-filter="motherboards" aria-pressed="false">Motherboards</button><button class="filter-tab" type="button" data-hardware-filter="bundles" aria-pressed="false">Component bundles</button><button class="filter-tab" type="button" data-hardware-filter="cooling" aria-pressed="false">Cooling</button><button class="filter-tab" type="button" data-hardware-filter="systems" aria-pressed="false">Laptops &amp; mini PCs</button></div>
+          </form>
+          <div id="hardware-archive-list" class="hardware-archive-grid archive-grid"></div>
+          <div id="hardware-empty" class="empty-state" hidden><p>No hardware matches your search.</p><button id="hardware-reset" class="text-link" type="button">Reset filters</button></div>
+          <div class="hardware-load"><p id="hardware-load-context" class="archive-load-context">A curated selection of hardware sales. Some older listings were unavailable when this site was created.</p><button id="hardware-load-more" class="button button-light" type="button" aria-controls="hardware-archive-list">Show all hardware sales</button></div>
+        </div>
+      </section>
+    </main>
+    <footer id="footer">
+      <div class="footer-inner">
+        <a href="#hero" class="footer-brand"><img src="assets/images/webp/logo.webp" class="nav-logo" width="28" height="22" alt=""><span>Bober Electronics</span></a>
+        <p class="footer-copy">© 2026 Bober Electronics</p>
+        <div class="footer-links"><a href="#store-bar">Our storefronts</a><a href="#hero">Back to top ↑</a></div>
       </div>
-      <div id="modal-info">
-        <h2 id="modal-title"></h2>
-        <p id="modal-price"></p>
-        <p id="modal-desc"></p>
-        <h4 class="comps-label">Components</h4>
-        <ul id="modal-comps"></ul>
+    </footer>
+    <dialog id="product-dialog" class="product-dialog" aria-labelledby="modal-title">
+      <button class="dialog-close icon-button" id="modal-close" type="button" aria-label="Close build details">×</button>
+      <div class="product-layout">
+        <div class="product-gallery">
+          <div class="modal-stage">
+            <img id="modal-main-img" alt="" width="1000" height="850" decoding="async"><button id="modal-prev" class="gallery-nav gallery-prev icon-button" type="button" aria-label="Previous build photo">←</button><button id="modal-next" class="gallery-nav gallery-next icon-button" type="button" aria-label="Next build photo">→</button><span id="modal-counter" class="eyebrow modal-counter" aria-live="polite"></span>
+          </div>
+          <div id="modal-thumbs" class="modal-thumbs">
+          </div>
+          <a id="modal-original" class="original-link" target="_blank" rel="noopener noreferrer">View original photograph ↗</a>
+        </div>
+        <div class="product-info">
+          <p id="modal-subtitle" class="eyebrow"></p>
+          <h2 id="modal-title"></h2>
+          <p id="modal-price" class="modal-price"></p>
+          <p class="modal-availability">Past build · <a href="#store-bar" class="dialog-store-link">Shop current listings</a></p>
+          <p id="modal-desc" class="modal-description"></p>
+          <h3 class="eyebrow spec-label">The complete specification</h3>
+          <dl id="modal-comps" class="modal-specs">
+          </dl>
+          <p class="fine-print modal-help">Use ← → to browse photos. Press Esc to close.</p>
+        </div>
       </div>
-    </div>
-  </div>
-
-  <script src="script.js"></script>
-</body>
+    </dialog>
+    <dialog id="photo-dialog" class="photo-dialog" aria-labelledby="photo-caption">
+      <button id="photo-close" class="dialog-close icon-button" type="button" aria-label="Close photograph">×</button><img id="photo-main-img" alt="" width="1440" height="1080" decoding="async">
+      <div class="photo-dialog-footer">
+        <p id="photo-caption"></p>
+        <a id="photo-original" class="original-link" target="_blank" rel="noopener noreferrer">View original photograph ↗</a>
+      </div>
+    </dialog>
+    <noscript><p class="noscript-note">Please enable JavaScript to browse the galleries, or visit our <a href="https://www.jawa.gg/sp/62030/bober-electronics">Jawa storefront</a>.</p></noscript>
+  </body>
 </html>

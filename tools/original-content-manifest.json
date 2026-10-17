@@ -1,0 +1,22 @@
+{
+  "featuredBuilds": {
+    "count": 9,
+    "sha256": "1e1b5e7e7e260db793a79e51b809c1e7472450ad08bf3ca27e69a5c119509d24"
+  },
+  "refurbishedItems": {
+    "count": 4,
+    "sha256": "9a4339517101659f2c37cb59a851a97cf0053163dd1be7931c0b7a1b035fcf2e"
+  },
+  "archiveFiles": {
+    "count": 131,
+    "sha256": "76efd8f30eef079f8c0c8a7f361edd3addb1786219835a6436243ee11c38864a"
+  },
+  "featuredReviews": {
+    "count": 5,
+    "sha256": "211ccd89b45dd4a2f28ee46157093590634cf2e3c44a610515ada505a1613c01"
+  },
+  "additionalReviews": {
+    "count": 38,
+    "sha256": "d405880c7ecf0facc25ced945f81c5d6ff9715b377711e3c5c05d56e7326eddd"
+  }
+}

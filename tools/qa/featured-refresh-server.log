@@ -1,0 +1,36 @@
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /style.css?v=20261017-finishing-2 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /assets/images/webp/closeups/closeup-01-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /assets/fonts/inter-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /data.js?v=20261017-finishing-2 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /script.js?v=20261017-finishing-2 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /assets/fonts/jetbrains-mono-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:25] "GET /assets/images/webp/closeups/closeup-07-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/refurb_hardware/hardware-013_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/refurb_hardware/hardware-042_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/refurb_hardware/hardware-044_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/refurb_hardware/hardware-007_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/refurb_hardware/hardware-029_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/refurb_hardware/hardware-041_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205080%2C%20Ryzen%207%207800X3D%2C%2032GB%20DDR5%2C%202TB%20NVMe%20SSD%2C%20WiFi%20-%20High%20End%20Gaming%20PC%2C%20Sold%20for%20%242050_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205070%20Ti%2C%20Ryzen%207%207800X3D%2C%2032GB%20DDR5%2C%202TB%20NVMe%20SSD%2C%20WiFi%20-%20High%20End%20Gaming%20PC%2C%20Sold%20for%20%241870_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205070%20Ti%2C%20Ryzen%207%207800X3D%2C%2032GB%20DDR5%2C%202TB%20NVMe%20SSD%20-%20Liquid%20Cooled%20Gaming%20PC%2C%20Sold%20for%20%242055_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205070%2C%20Ryzen%207%205700X%2C%2032GB%20DDR4%2C%201TB%20NVMe%20SSD%2C%20WiFi%20-%20Liquid%20Cooled%20Gaming%20PC%2C%20Sold%20for%20%241330_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205070%2C%20Ryzen%207%205700X%2C%2032GB%20DDR4%2C%201TB%20NVMe%20SSD%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%241350_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205070%2C%20Ryzen%205%209600X%2C%2032GB%20DDR5%2C%202TB%20NVMe%20SSD%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%241440_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205070%2C%20Ryzen%205%208400F%2C%2032GB%20DDR5%2C%201TB%20NVMe%20SSD%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%241250_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205060%20Ti%2C%20Ryzen%207%203700X%2C%2016GB%20DDR4%2C%202.5TB%20Storage%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%24940_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RX%209070%20XT%2C%204TB%20NVMe%20SSD%2C%20Ryzen%205%207600X%2C%2016GB%20DDR5%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%241499_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205060%2C%20Ryzen%205%203600%2C%2016GB%20DDR4%2C%201TB%20NVMe%20SSD%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%24720_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%204080%2C%20Ryzen%207%207700X%2C%2032GB%20DDR5%2C%201TB%20NVMe%20SSD%2C%20WiFi%20-%20High%20End%20Gaming%20PC%2C%20Sold%20for%20%242150_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:26] "GET /assets/images/webp/archive/RTX%205060%2C%20Ryzen%205%203600%2C%2016GB%20DDR4%2C%201TB%20NVMe%20SSD%2C%20WiFi%20-%20Custom%20Gaming%20PC%2C%20Sold%20for%20%24820_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-016_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-008_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-014_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-038_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-015_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-025_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:05:32] "GET /assets/images/webp/refurb_hardware/hardware-018_thumb.webp HTTP/1.1" 304 -
+Serving HTTP on 127.0.0.1 port 4174 (http://127.0.0.1:4174/) ...
+
+Keyboard interrupt received, exiting.

@@ -1,0 +1,13 @@
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /style.css?v=20261017-finishing-1 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /assets/fonts/inter-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /assets/images/webp/closeups/closeup-01-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /script.js?v=20261017-finishing-1 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /data.js?v=20261017-finishing-1 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /assets/fonts/jetbrains-mono-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 14:59:41] "GET /assets/images/webp/closeups/closeup-07-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 14:59:47] "GET /assets/images/webp/closeups/closeup-05-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 14:59:53] "GET /assets/images/webp/closeups/closeup-08-1280.webp HTTP/1.1" 304 -
+Serving HTTP on 127.0.0.1 port 4174 (http://127.0.0.1:4174/) ...
+
+Keyboard interrupt received, exiting.

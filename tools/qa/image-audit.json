@@ -1,0 +1,1185 @@
+[
+  {
+    "group": "featured",
+    "name": "3070Black_BACK.png",
+    "width": 1520,
+    "height": 1362,
+    "bytes": 3542515
+  },
+  {
+    "group": "featured",
+    "name": "3070Black_FRONT.png",
+    "width": 2836,
+    "height": 2152,
+    "bytes": 6783872
+  },
+  {
+    "group": "featured",
+    "name": "3070Black_SIDE.png",
+    "width": 1906,
+    "height": 1522,
+    "bytes": 4833663
+  },
+  {
+    "group": "featured",
+    "name": "3080BF_BACK.png",
+    "width": 1464,
+    "height": 1282,
+    "bytes": 2034651
+  },
+  {
+    "group": "featured",
+    "name": "3080BF_FRONT.png",
+    "width": 1880,
+    "height": 1294,
+    "bytes": 3105118
+  },
+  {
+    "group": "featured",
+    "name": "3080BF_SIDE.png",
+    "width": 1704,
+    "height": 1290,
+    "bytes": 2877012
+  },
+  {
+    "group": "featured",
+    "name": "3080Black_BACK.png",
+    "width": 1276,
+    "height": 1288,
+    "bytes": 1950375
+  },
+  {
+    "group": "featured",
+    "name": "3080Black_FRONT.png",
+    "width": 1682,
+    "height": 1296,
+    "bytes": 2638456
+  },
+  {
+    "group": "featured",
+    "name": "3080Black_SIDE.png",
+    "width": 1562,
+    "height": 1252,
+    "bytes": 2257448
+  },
+  {
+    "group": "featured",
+    "name": "3080White_BACK.png",
+    "width": 1576,
+    "height": 1274,
+    "bytes": 2266523
+  },
+  {
+    "group": "featured",
+    "name": "3080White_FRONT.png",
+    "width": 1914,
+    "height": 1288,
+    "bytes": 2917344
+  },
+  {
+    "group": "featured",
+    "name": "3080White_SIDE.png",
+    "width": 1642,
+    "height": 1198,
+    "bytes": 2026252
+  },
+  {
+    "group": "featured",
+    "name": "3080_2Black_BACK.png",
+    "width": 1374,
+    "height": 1248,
+    "bytes": 2888896
+  },
+  {
+    "group": "featured",
+    "name": "3080_2Black_FRONT.png",
+    "width": 1736,
+    "height": 1304,
+    "bytes": 3759719
+  },
+  {
+    "group": "featured",
+    "name": "3080_2Black_SIDE.png",
+    "width": 1736,
+    "height": 1334,
+    "bytes": 3954360
+  },
+  {
+    "group": "featured",
+    "name": "3080_2Black_SIDE2.png",
+    "width": 2212,
+    "height": 1538,
+    "bytes": 6149521
+  },
+  {
+    "group": "featured",
+    "name": "5070White_BACK.png",
+    "width": 1476,
+    "height": 1294,
+    "bytes": 1798933
+  },
+  {
+    "group": "featured",
+    "name": "5070White_FRONT.png",
+    "width": 1682,
+    "height": 1276,
+    "bytes": 2776436
+  },
+  {
+    "group": "featured",
+    "name": "5070White_SIDE.png",
+    "width": 1594,
+    "height": 1288,
+    "bytes": 2412123
+  },
+  {
+    "group": "featured",
+    "name": "5070_BACK.png",
+    "width": 1686,
+    "height": 1602,
+    "bytes": 4676526
+  },
+  {
+    "group": "featured",
+    "name": "5070_FRONT.png",
+    "width": 1776,
+    "height": 1432,
+    "bytes": 2155008
+  },
+  {
+    "group": "featured",
+    "name": "5070_SIDE.png",
+    "width": 1672,
+    "height": 1426,
+    "bytes": 4320413
+  },
+  {
+    "group": "featured",
+    "name": "5070_SIDE2.png",
+    "width": 2022,
+    "height": 1336,
+    "bytes": 4861498
+  },
+  {
+    "group": "featured",
+    "name": "5080White_BACK.png",
+    "width": 1512,
+    "height": 1272,
+    "bytes": 1986984
+  },
+  {
+    "group": "featured",
+    "name": "5080White_FRONT.png",
+    "width": 1616,
+    "height": 1202,
+    "bytes": 2475063
+  },
+  {
+    "group": "featured",
+    "name": "5080White_SIDE.png",
+    "width": 1530,
+    "height": 1166,
+    "bytes": 2174383
+  },
+  {
+    "group": "featured",
+    "name": "6900XT_BACK.png",
+    "width": 1802,
+    "height": 1828,
+    "bytes": 5635142
+  },
+  {
+    "group": "featured",
+    "name": "6900XT_FRONT.png",
+    "width": 2000,
+    "height": 1484,
+    "bytes": 5185053
+  },
+  {
+    "group": "featured",
+    "name": "6900XT_SIDE.png",
+    "width": 1930,
+    "height": 1422,
+    "bytes": 4692489
+  },
+  {
+    "group": "featured",
+    "name": "6900XT_SIDE2.png",
+    "width": 2726,
+    "height": 1962,
+    "bytes": 8397722
+  },
+  {
+    "group": "featured",
+    "name": "9070White_BACK.png",
+    "width": 1280,
+    "height": 1288,
+    "bytes": 2379831
+  },
+  {
+    "group": "featured",
+    "name": "9070White_FRONT.png",
+    "width": 1672,
+    "height": 1292,
+    "bytes": 3061654
+  },
+  {
+    "group": "featured",
+    "name": "9070White_SIDE.png",
+    "width": 1788,
+    "height": 1294,
+    "bytes": 2474725
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1060, i7-4770, 16GB DDR3, 512GB SSD - Budget Gaming PC, Sold for $380.png",
+    "width": 1222,
+    "height": 1048,
+    "bytes": 1817923
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070 Ti, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $480 .png",
+    "width": 1030,
+    "height": 932,
+    "bytes": 1287644
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, 1TB SSD, i7-4770, 16GB DDR3 - Custom Gaming PC, Sold for $390.png",
+    "width": 956,
+    "height": 1020,
+    "bytes": 1775154
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, Ryzen 5 1600, 16GB DDR4, 512GB SSD - Gaming PC, Sold for $400 .png",
+    "width": 1204,
+    "height": 1050,
+    "bytes": 1763894
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, Ryzen 5 2600, 16GB DDR4, 512GB NVMe SSD - Budget Gaming PC, Sold for $449.png",
+    "width": 1106,
+    "height": 1026,
+    "bytes": 1253940
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, Ryzen 5 2600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $430.png",
+    "width": 1140,
+    "height": 1138,
+    "bytes": 1772207
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, Ryzen 5 2600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $450.png",
+    "width": 1088,
+    "height": 794,
+    "bytes": 963415
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, Ryzen 5 3600, 16GB DDR4, 512GB SSD, WiFi - Custom Gaming PC, Sold for $375.png",
+    "width": 830,
+    "height": 772,
+    "bytes": 1089569
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1070, i7-3930K, 32GB RAM, 512GB SSD - Budget Gaming PC, Sold for $500.png",
+    "width": 946,
+    "height": 1096,
+    "bytes": 1865600
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1080 Ti, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $530.png",
+    "width": 1164,
+    "height": 1000,
+    "bytes": 1590904
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1080, Ryzen 5 2600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold 2x at $399 Each.png",
+    "width": 1190,
+    "height": 1042,
+    "bytes": 1273688
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1080, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD, WiFi - Value Gaming PC, Sold for $485.png",
+    "width": 1148,
+    "height": 1040,
+    "bytes": 1608994
+  },
+  {
+    "group": "archive",
+    "name": "GTX 1650 Super, i3-8100, 16GB RAM, 512GB SSD - Budget Gaming PC, Sold for $300.png",
+    "width": 890,
+    "height": 938,
+    "bytes": 1179738
+  },
+  {
+    "group": "archive",
+    "name": "GTX 745, i5-2400, 8GB DDR3, 1TB HDD - Media PC, Sold for $100.png",
+    "width": 852,
+    "height": 956,
+    "bytes": 1042652
+  },
+  {
+    "group": "archive",
+    "name": "GTX 980 Ti, i7-875K, 16GB DDR3 - Ultra-Budget PC, Sold for $190.png",
+    "width": 908,
+    "height": 926,
+    "bytes": 960499
+  },
+  {
+    "group": "archive",
+    "name": "GTX Titan Xp, i7-4770, 16GB DDR3, 1TB SSD - Gaming PC, Sold for $500.png",
+    "width": 850,
+    "height": 710,
+    "bytes": 657802
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2060 Super, Ryzen 5 2600, 16GB DDR4, 1TB NVMe SSD, WiFi - Gaming PC, Sold for $510.png",
+    "width": 1156,
+    "height": 976,
+    "bytes": 1380551
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2060 Super, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $599.png",
+    "width": 1144,
+    "height": 1040,
+    "bytes": 1565529
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2060 Super, Ryzen 5 5600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $600.png",
+    "width": 1220,
+    "height": 1106,
+    "bytes": 1896798
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2070 Super, 2.25TB Storage, Xeon E3, Windows 11 - Custom Gaming PC, Sold for $480 .png",
+    "width": 1114,
+    "height": 1126,
+    "bytes": 1849510
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2070 Super, Ryzen 5 3500X, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold 2x for $580 Each.png",
+    "width": 1896,
+    "height": 1612,
+    "bytes": 5735478
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2070 Super, i7-7700K, 16GB DDR4, 4TB Storage - White Gaming PC, Sold for $580.png",
+    "width": 1068,
+    "height": 954,
+    "bytes": 1163762
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2070, i7-4770, 16GB DDR3, 1TB SSD, WiFi - Gaming PC, Sold for $500.png",
+    "width": 994,
+    "height": 868,
+    "bytes": 834683
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080 Super, Ryzen 5 3600, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold for $850.png",
+    "width": 1700,
+    "height": 1366,
+    "bytes": 2113031
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080 Ti, Ryzen 5 3600, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold for $750.png",
+    "width": 1348,
+    "height": 1030,
+    "bytes": 1261807
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080 Ti, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $650.png",
+    "width": 1182,
+    "height": 824,
+    "bytes": 1176099
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $600.png",
+    "width": 1248,
+    "height": 1120,
+    "bytes": 1626446
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - White Gaming PC, Sold for $570.png",
+    "width": 1188,
+    "height": 998,
+    "bytes": 1691211
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080, Ryzen 5 3600, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold for $720.png",
+    "width": 1118,
+    "height": 1030,
+    "bytes": 1176175
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080, Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $620.png",
+    "width": 1114,
+    "height": 880,
+    "bytes": 1240576
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080, i7-4770, 16GB DDR3, 1TB Storage, WiFi - Gaming PC, Sold for $600.png",
+    "width": 1108,
+    "height": 1124,
+    "bytes": 2367657
+  },
+  {
+    "group": "archive",
+    "name": "RTX 2080, i7-7700, 16GB RAM, 500GB SSD - Gaming PC, Sold for $500.png",
+    "width": 1134,
+    "height": 982,
+    "bytes": 1543894
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3050, i5-6600, 16GB DDR4, 512GB NVMe SSD, WiFi - Budget Gaming PC, Sold 2x for $300 Each.png",
+    "width": 800,
+    "height": 956,
+    "bytes": 936051
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3050, i5-9400F, 16GB DDR4, 1TB SSD - Custom Gaming PC, Sold for $350.png",
+    "width": 862,
+    "height": 1000,
+    "bytes": 1268035
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Core i7, 1TB SSD - Custom Gaming PC, Sold for $580.png",
+    "width": 1394,
+    "height": 1104,
+    "bytes": 1585036
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $640.png",
+    "width": 1348,
+    "height": 1072,
+    "bytes": 1590322
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Gaming PC, Sold for $530.png",
+    "width": 1114,
+    "height": 964,
+    "bytes": 1216914
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Ryzen 5 3600, 16GB DDR4, 1TB SSD - Gaming PC, Sold 2x at $620 Each.png",
+    "width": 1140,
+    "height": 1010,
+    "bytes": 1444013
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $680.png",
+    "width": 1138,
+    "height": 968,
+    "bytes": 1473395
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $700.png",
+    "width": 1142,
+    "height": 866,
+    "bytes": 1265891
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3060 Ti, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $530.png",
+    "width": 1220,
+    "height": 1080,
+    "bytes": 1863300
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $700.png",
+    "width": 1166,
+    "height": 1096,
+    "bytes": 1522520
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $799.png",
+    "width": 1244,
+    "height": 1006,
+    "bytes": 1505885
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $650.png",
+    "width": 1174,
+    "height": 994,
+    "bytes": 1452134
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $700.png",
+    "width": 1066,
+    "height": 792,
+    "bytes": 974219
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $680.png",
+    "width": 1638,
+    "height": 1276,
+    "bytes": 2023435
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $875.png",
+    "width": 758,
+    "height": 788,
+    "bytes": 1248109
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 2TB Storage, WiFi - Custom Gaming PC, Sold for $720.png",
+    "width": 1592,
+    "height": 1274,
+    "bytes": 2985435
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD, WiFi - Sold for $530.png",
+    "width": 1126,
+    "height": 996,
+    "bytes": 1326320
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $725.png",
+    "width": 1272,
+    "height": 1012,
+    "bytes": 1671344
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $875.png",
+    "width": 1202,
+    "height": 890,
+    "bytes": 1234157
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 16GB DDR4, 1TB NVMe SSD, WiFi - White Gaming PC, Sold for $725.png",
+    "width": 1140,
+    "height": 930,
+    "bytes": 1229810
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 16GB DDR4, 2TB Storage, WiFi - Liquid Cooled Gaming PC, Sold for $875.png",
+    "width": 2836,
+    "height": 2152,
+    "bytes": 6783872
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $805.png",
+    "width": 1314,
+    "height": 1002,
+    "bytes": 1684329
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $875.png",
+    "width": 1192,
+    "height": 918,
+    "bytes": 1292497
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5500, 32GB DDR4, 1TB NVMe SSD, WiFi - Sold for $875.png",
+    "width": 1160,
+    "height": 844,
+    "bytes": 1205384
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Black:White Gaming PC, Sold for $700.png",
+    "width": 1276,
+    "height": 952,
+    "bytes": 1433067
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $700.png",
+    "width": 1226,
+    "height": 1112,
+    "bytes": 1725794
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $750.png",
+    "width": 1140,
+    "height": 1028,
+    "bytes": 1545473
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $780.png",
+    "width": 1204,
+    "height": 1068,
+    "bytes": 1749080
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $799.png",
+    "width": 1236,
+    "height": 1114,
+    "bytes": 1798318
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $700.png",
+    "width": 1294,
+    "height": 1012,
+    "bytes": 1441188
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Sold 2x at $700 Each.png",
+    "width": 1270,
+    "height": 934,
+    "bytes": 1373189
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFI - Custom Gaming PC, Sold for $700.png",
+    "width": 1274,
+    "height": 1024,
+    "bytes": 1530126
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $809.png",
+    "width": 1168,
+    "height": 972,
+    "bytes": 1350444
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $849.png",
+    "width": 1296,
+    "height": 1086,
+    "bytes": 1656164
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 32GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $750.png",
+    "width": 1278,
+    "height": 1086,
+    "bytes": 1538908
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 5600, 32GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $820.png",
+    "width": 1342,
+    "height": 1180,
+    "bytes": 2208839
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, Ryzen 5 7500F, 16GB DDR5, 1TB NVMe SSD - Custom Gaming PC, Sold for $780.png",
+    "width": 1106,
+    "height": 1046,
+    "bytes": 1472674
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3070, i5-10400, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $750.png",
+    "width": 1052,
+    "height": 1044,
+    "bytes": 1320294
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 5 5600, 32GB DDR4, 1TB NVMe SSD - Liquid Cooled Gaming PC, Sold for $1050.png",
+    "width": 1342,
+    "height": 1118,
+    "bytes": 1767914
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 5 7500F, 32GB DDR5, 1TB NVMe SSD - Liquid Cooled Gaming PC, Sold for $1150.png",
+    "width": 1062,
+    "height": 884,
+    "bytes": 1245376
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 5 7500F, 32GB DDR5, 1TB NVMe SSD, WiFi - Gaming PC, Sold for $1185.png",
+    "width": 1544,
+    "height": 1284,
+    "bytes": 2651256
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, Liquid Cooling - Gaming PC, Sold for $980.png",
+    "width": 1252,
+    "height": 1092,
+    "bytes": 1490846
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold 2x at $970 Each.png",
+    "width": 1738,
+    "height": 1280,
+    "bytes": 2799154
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1080.png",
+    "width": 1062,
+    "height": 976,
+    "bytes": 1420713
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Liquid Cooled Gaming PC, Sold for $1150.png",
+    "width": 1736,
+    "height": 1304,
+    "bytes": 3759719
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $950.png",
+    "width": 1236,
+    "height": 970,
+    "bytes": 1483759
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFI - Custom Gaming PC, Sold for $1080.png",
+    "width": 1222,
+    "height": 1044,
+    "bytes": 1459435
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1035.png",
+    "width": 1082,
+    "height": 920,
+    "bytes": 1170382
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Gaming PC, Sold for $1020.png",
+    "width": 1132,
+    "height": 1042,
+    "bytes": 1229852
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Liquid Cooled Gaming PC, Sold for $1175.png",
+    "width": 1154,
+    "height": 986,
+    "bytes": 1471763
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5800X, 32GB DDR4, 1TB NVMe SSD - Liquid Cooled Gaming PC, Sold for $950.png",
+    "width": 1148,
+    "height": 1040,
+    "bytes": 1595760
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 5800X, 32GB DDR4, 1TB NVMe SSD, Liquid Cooling - Custom Gaming PC, Sold for $950.png",
+    "width": 1228,
+    "height": 1028,
+    "bytes": 1435030
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, Ryzen 7 7700, 16GB DDR5, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $950 .png",
+    "width": 1176,
+    "height": 1026,
+    "bytes": 1668786
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, i5-12600K, 32GB DDR4, 1TB NVMe SSD - Liquid Cooled Gaming PC, Sold for $1085.png",
+    "width": 1218,
+    "height": 1050,
+    "bytes": 1719780
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3080, i7 10700K, 32GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $950.png",
+    "width": 1100,
+    "height": 1084,
+    "bytes": 1677970
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3090, Ryzen 5 7500F, 32GB DDR5, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1350.png",
+    "width": 1214,
+    "height": 1038,
+    "bytes": 1436122
+  },
+  {
+    "group": "archive",
+    "name": "RTX 3090, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1200.png",
+    "width": 1266,
+    "height": 876,
+    "bytes": 1466706
+  },
+  {
+    "group": "archive",
+    "name": "RTX 4060 Ti, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $680.png",
+    "width": 1034,
+    "height": 966,
+    "bytes": 1198966
+  },
+  {
+    "group": "archive",
+    "name": "RTX 4070 Ti, Ryzen 7 7700X, 32GB DDR5, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1380.png",
+    "width": 1118,
+    "height": 984,
+    "bytes": 1168498
+  },
+  {
+    "group": "archive",
+    "name": "RTX 4070, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1120.png",
+    "width": 1150,
+    "height": 1008,
+    "bytes": 1193996
+  },
+  {
+    "group": "archive",
+    "name": "RTX 4070, Ryzen 7 5800XT, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $950.png",
+    "width": 1200,
+    "height": 1018,
+    "bytes": 1557050
+  },
+  {
+    "group": "archive",
+    "name": "RTX 4080, Ryzen 7 7700X, 32GB DDR5, 1TB NVMe SSD, WiFi - High End Gaming PC, Sold for $2150.png",
+    "width": 1238,
+    "height": 1132,
+    "bytes": 1923957
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5060 Ti, Ryzen 7 3700X, 16GB DDR4, 2.5TB Storage, WiFi - Custom Gaming PC, Sold for $940.png",
+    "width": 1742,
+    "height": 1250,
+    "bytes": 2912479
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5060, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $720.png",
+    "width": 1176,
+    "height": 968,
+    "bytes": 1283320
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5060, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $820.png",
+    "width": 1126,
+    "height": 918,
+    "bytes": 1282405
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5070 Ti, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD - Liquid Cooled Gaming PC, Sold for $2055.png",
+    "width": 1224,
+    "height": 1016,
+    "bytes": 1521522
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5070 Ti, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD, WiFi - High End Gaming PC, Sold for $1870.png",
+    "width": 1262,
+    "height": 1128,
+    "bytes": 1784746
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5070, Ryzen 5 8400F, 32GB DDR5, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1250.png",
+    "width": 1254,
+    "height": 1022,
+    "bytes": 1399581
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5070, Ryzen 5 9600X, 32GB DDR5, 2TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1440.png",
+    "width": 1234,
+    "height": 1106,
+    "bytes": 1854245
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5070, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $1350.png",
+    "width": 1126,
+    "height": 996,
+    "bytes": 1330290
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5070, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Liquid Cooled Gaming PC, Sold for $1330.png",
+    "width": 1776,
+    "height": 1432,
+    "bytes": 2155008
+  },
+  {
+    "group": "archive",
+    "name": "RTX 5080, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD, WiFi - High End Gaming PC, Sold for $2050.png",
+    "width": 1212,
+    "height": 1096,
+    "bytes": 1749783
+  },
+  {
+    "group": "archive",
+    "name": "RX 5600XT, i5-10400F, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $750.png",
+    "width": 1010,
+    "height": 1144,
+    "bytes": 1754248
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700 XT, 16GB DDR3, Xeon E3 - Custom Gaming PC, Sold for $490.png",
+    "width": 1068,
+    "height": 934,
+    "bytes": 1513196
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $520.png",
+    "width": 1112,
+    "height": 976,
+    "bytes": 1123657
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 2600, 16GB DDR4, 512GB NVMe SSD - Custom Gaming PC, Sold for $549.png",
+    "width": 1154,
+    "height": 1042,
+    "bytes": 1746060
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 3600, 1.25TB Storage, 16GB DDR4 - Gaming PC, Sold for $650.png",
+    "width": 1214,
+    "height": 982,
+    "bytes": 1402402
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 3600, 16GB DDR4, 1.25TB Storage, WiFi - Custom Gaming PC, Sold for $630.png",
+    "width": 982,
+    "height": 906,
+    "bytes": 754863
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 3600, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $580 .png",
+    "width": 1168,
+    "height": 974,
+    "bytes": 1395955
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $480.png",
+    "width": 1228,
+    "height": 1060,
+    "bytes": 1649630
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $530.png",
+    "width": 1246,
+    "height": 1142,
+    "bytes": 1904697
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Ryzen 5 3600, 16GB DDR4, 512GB NVMe SSD - Value Gaming PC, Sold for $450.png",
+    "width": 1156,
+    "height": 1042,
+    "bytes": 1327824
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Xeon E3, 16GB DDR3 - Custom Gaming PC, Sold for $540.png",
+    "width": 852,
+    "height": 940,
+    "bytes": 1230789
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Xeon E3, 16GB DDR3, 1TB HDD - Custom Gaming PC, Sold for $450.png",
+    "width": 972,
+    "height": 974,
+    "bytes": 1459441
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Xeon E5, 64GB RAM, 1TB SSD - Custom PC, Sold for $540.png",
+    "width": 846,
+    "height": 982,
+    "bytes": 1441967
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, Xeon E5, 64GB RAM, 1TB SSD - Value Gaming PC, Sold for $300.png",
+    "width": 846,
+    "height": 952,
+    "bytes": 955629
+  },
+  {
+    "group": "archive",
+    "name": "RX 5700XT, i5-10400F, 16GB DDR4, 1TB NVMe SSD - Gaming PC, Sold for $600.png",
+    "width": 1076,
+    "height": 1256,
+    "bytes": 1807256
+  },
+  {
+    "group": "archive",
+    "name": "RX 580, Xeon E3, 16GB DDR3, 256GB SSD - Ultra-Budget Gaming PC, Sold for $105.png",
+    "width": 1136,
+    "height": 1040,
+    "bytes": 1346497
+  },
+  {
+    "group": "archive",
+    "name": "RX 6400, i5-6600, 16GB DDR4, 512GB NVMe SSD, WiFi - Starter Gaming PC, Sold for $220.png",
+    "width": 1000,
+    "height": 1038,
+    "bytes": 922978
+  },
+  {
+    "group": "archive",
+    "name": "RX 6600, Ryzen 5 2600, 16GB DDR4, 512GB NVMe SSD - Gaming PC, Sold for $520 3.01.06 PM.png",
+    "width": 1328,
+    "height": 1148,
+    "bytes": 1821343
+  },
+  {
+    "group": "archive",
+    "name": "RX 6700XT, i7-10700K, 32GB DDR4, 512GB SSD, WiFi - Custom Gaming PC, Sold for $1050.png",
+    "width": 888,
+    "height": 1146,
+    "bytes": 1825447
+  },
+  {
+    "group": "archive",
+    "name": "RX 6800, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $799.png",
+    "width": 1242,
+    "height": 952,
+    "bytes": 1452742
+  },
+  {
+    "group": "archive",
+    "name": "RX 6800, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Custom Gaming PC, Sold for $875.png",
+    "width": 1158,
+    "height": 856,
+    "bytes": 1383423
+  },
+  {
+    "group": "archive",
+    "name": "RX 6800, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD - Value Gaming PC, Sold for $849.png",
+    "width": 1110,
+    "height": 864,
+    "bytes": 1200811
+  },
+  {
+    "group": "archive",
+    "name": "RX 6800, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $970.png",
+    "width": 1228,
+    "height": 1148,
+    "bytes": 1351884
+  },
+  {
+    "group": "archive",
+    "name": "RX 6900 XT, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC, Sold for $780.png",
+    "width": 2000,
+    "height": 1484,
+    "bytes": 5185053
+  },
+  {
+    "group": "archive",
+    "name": "RX 7700XT, Ryzen 5 5600, 32GB DDR4, 1TB NVMe SSD - Value Gaming PC, Sold for $875.png",
+    "width": 1160,
+    "height": 1010,
+    "bytes": 1391480
+  },
+  {
+    "group": "archive",
+    "name": "RX 9070 XT, 4TB NVMe SSD, Ryzen 5 7600X, 16GB DDR5, WiFi - Custom Gaming PC, Sold for $1499.png",
+    "width": 1210,
+    "height": 1032,
+    "bytes": 1487537
+  },
+  {
+    "group": "archive",
+    "name": "Refurb. Lenovo Thinkpad 2016 (i7-6600U, 24GB DDR4, GTX 930M), Sold for $160  .png",
+    "width": 1240,
+    "height": 1174,
+    "bytes": 1991489
+  },
+  {
+    "group": "refurbished",
+    "name": "refurb2080_GPU.png",
+    "width": 1128,
+    "height": 672,
+    "bytes": 1066230
+  },
+  {
+    "group": "refurbished",
+    "name": "refurbCOMBO_12700k:z690.png",
+    "width": 1006,
+    "height": 1142,
+    "bytes": 2017973
+  },
+  {
+    "group": "refurbished",
+    "name": "refurbGPU_1070Ti.png",
+    "width": 1180,
+    "height": 672,
+    "bytes": 867631
+  },
+  {
+    "group": "refurbished",
+    "name": "refurbGPU_3070.png",
+    "width": 1332,
+    "height": 866,
+    "bytes": 1688187
+  },
+  {
+    "group": "refurbished",
+    "name": "refurbLenovoThinkpad.png",
+    "width": 1240,
+    "height": 1174,
+    "bytes": 1991489
+  }
+]

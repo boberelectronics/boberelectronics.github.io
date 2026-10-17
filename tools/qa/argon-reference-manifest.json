@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "file": "Argon_Frontend/index.html",
+      "sha256": "c2c3cb982333a748de88185655c2b64ba9be555f81ecc63e9bca4993fe51020d"
+    },
+    {
+      "file": "Argon_Frontend/style.css",
+      "sha256": "7ba0a72f89430d2a9c2bb16a22225c6df6ecf651aa077cfa373935962edf06e2"
+    },
+    {
+      "file": "Argon_Frontend/script.js",
+      "sha256": "93777af9fef2beffeb339d8b221c553c25a20f553ab9011df963282c2b3759e1"
+    }
+  ]
+}

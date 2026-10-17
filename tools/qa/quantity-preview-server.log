@@ -1,0 +1,15 @@
+127.0.0.1 - - [17/Oct/2026 15:10:21] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:21] "GET /style.css?v=20261017-finishing-2 HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:10:21] "GET /data.js?v=20261017-hardware-quantities-1 HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:21] "GET /script.js?v=20261017-finishing-2 HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:10:22] "GET /assets/images/webp/closeups/closeup-07-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [17/Oct/2026 15:10:22] "GET /assets/images/webp/refurb_hardware/hardware-010_thumb.webp HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:22] "GET /assets/images/webp/refurb_hardware/hardware-039_thumb.webp HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:22] "GET /assets/images/webp/refurb_hardware/hardware-034_thumb.webp HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:22] "GET /assets/images/webp/refurb_hardware/hardware-031_thumb.webp HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:24] "GET /assets/images/webp/refurb_hardware/hardware-006_thumb.webp HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:41] "GET /assets/images/webp/refurb_hardware/hardware-009_thumb.webp HTTP/1.1" 200 -
+127.0.0.1 - - [17/Oct/2026 15:10:41] "GET /assets/images/webp/refurb_hardware/hardware-001_thumb.webp HTTP/1.1" 200 -
+Serving HTTP on 127.0.0.1 port 4174 (http://127.0.0.1:4174/) ...
+
+Keyboard interrupt received, exiting.

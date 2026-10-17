@@ -1,0 +1,72 @@
+{
+  "note": "Original paths are retained in historical content. The owner removed these PNGs on October 17; source SHA-256/dimensions were read from the tracked Git baseline without restoring files. Existing WebP derivatives remain preserved. Exact replacements are assigned only after full original-file SHA-256 equality.",
+  "photos": [
+    {
+      "original": "assets/images/refurbished/refurbLenovoThinkpad.png",
+      "sourceSha256": "a377ecb7a7f0d45b8ebad450d8ef6c6e0574d36978d5e1bf0908c343b84d776c",
+      "sourceWidth": 1240,
+      "sourceHeight": 1174,
+      "thumbnail": {
+        "path": "assets/images/webp/refurbished/refurbLenovoThinkpad_thumb.webp",
+        "sha256": "325dbfe76e4e6a411e9fe99f798b4071b9ec26b2ea1d43df20f26bb3bad076a6",
+        "bytes": 28564
+      },
+      "fullImage": {
+        "path": "assets/images/webp/refurbished/refurbLenovoThinkpad_full.webp",
+        "sha256": "da4456da2e2be027d9e6fe3f71fcd94f32530181dbb8644badce257315506542",
+        "bytes": 89812
+      },
+      "exactReplacement": "assets/images/refurb_hardware/Lenovo Thinkpad - i7-6600U, GeForce GTX 930M, 24GB RAM, 1TB NVMe SSD - Sold for $240.png"
+    },
+    {
+      "original": "assets/images/refurbished/refurbGPU_1070Ti.png",
+      "sourceSha256": "b24ae480f96b70b0f894957cbfe3325d5022c3f3f96c74470c25f50311ed9d1f",
+      "sourceWidth": 1180,
+      "sourceHeight": 672,
+      "thumbnail": {
+        "path": "assets/images/webp/refurbished/refurbGPU_1070Ti_thumb.webp",
+        "sha256": "c5ce9a8748c6afffa0b5b797539078ff851f45b329fbc1290cc132bb4a8b9a09",
+        "bytes": 13170
+      },
+      "fullImage": {
+        "path": "assets/images/webp/refurbished/refurbGPU_1070Ti_full.webp",
+        "sha256": "775f99bf3c69f1a560b14f9fcb75fa42b3b9a659b98b452e4fe3e03e775c53f3",
+        "bytes": 41094
+      },
+      "exactReplacement": "assets/images/refurb_hardware/EVGA GeForce GTX 1070 Ti 8G GPU (w: Original Box) - Sold for $110.png"
+    },
+    {
+      "original": "assets/images/refurbished/refurbGPU_3070.png",
+      "sourceSha256": "f42f5c6649fe3b4ec748493d9efc52684680167c70cb1d0c075dabb55c6bb31d",
+      "sourceWidth": 1332,
+      "sourceHeight": 866,
+      "thumbnail": {
+        "path": "assets/images/webp/refurbished/refurbGPU_3070_thumb.webp",
+        "sha256": "246bd902b8d93374fcf67f3c6b57a92ebede576eebca1619dab8fc7ae6e11dd6",
+        "bytes": 33262
+      },
+      "fullImage": {
+        "path": "assets/images/webp/refurbished/refurbGPU_3070_full.webp",
+        "sha256": "9b976bb34fded50d114324d04265020c300a5018da192a3379297d9ad0fd7b69",
+        "bytes": 123198
+      }
+    },
+    {
+      "original": "assets/images/refurbished/refurbCOMBO_12700k:z690.png",
+      "sourceSha256": "8acc42f9c14777c41010a438c8064e2efcbc58047358f9c80dc490a36ea1c942",
+      "sourceWidth": 1006,
+      "sourceHeight": 1142,
+      "thumbnail": {
+        "path": "assets/images/webp/refurbished/refurbCOMBO_12700k:z690_thumb.webp",
+        "sha256": "b588d2fcfe06cee580a7be9f8097d48f6cea0174a029ee3fc6c5ca966607de32",
+        "bytes": 59866
+      },
+      "fullImage": {
+        "path": "assets/images/webp/refurbished/refurbCOMBO_12700k:z690_full.webp",
+        "sha256": "5bace13dfaa95101c9e0a41fb4b95fb583e6d6a13ab8d191f71046d9573ad929",
+        "bytes": 163882
+      },
+      "exactReplacement": "assets/images/refurb_hardware/Core i7 12700K + ASRock Z690 LGA1700 Motherboard COMBO - Sold for $200.png"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "hardware-001",
+    "title": "(Mixed Brands) 256GB M.2 NVMe SSD",
+    "category": "storage",
+    "images": [
+      "assets/images/refurb_hardware/(Mixed Brands) 256GB M.2 NVMe SSD - Sold 5x for $20 Each.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold 5x for $20 Each"
+  },
+  {
+    "id": "hardware-002",
+    "title": "16GB DDR4 HyperX Fury 2133 MT:S",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/16GB DDR4 HyperX Fury 2133 MT:S - Sold for $15.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $15"
+  },
+  {
+    "id": "hardware-003",
+    "title": "AMD Ryzen 5 5500 + MSI B550M Pro-VDH COMBO",
+    "category": "bundles",
+    "images": [
+      "assets/images/refurb_hardware/AMD Ryzen 5 5500 + MSI B550M Pro-VDH COMBO - Sold for $120.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $120"
+  },
+  {
+    "id": "hardware-004",
+    "title": "AMD Ryzen 5 7500F CPU",
+    "category": "cpus",
+    "images": [
+      "assets/images/refurb_hardware/AMD Ryzen 5 7500F CPU - Sold for $120.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $120"
+  },
+  {
+    "id": "hardware-005",
+    "title": "AMD Ryzen 7 2700 CPU",
+    "category": "cpus",
+    "images": [
+      "assets/images/refurb_hardware/AMD Ryzen 7 2700 CPU - Sold for $40.HEIC"
+    ],
+    "sold": true,
+    "saleText": "Sold for $40"
+  },
+  {
+    "id": "hardware-006",
+    "title": "AMD Ryzen 7 5700X",
+    "category": "cpus",
+    "images": [
+      "assets/images/refurb_hardware/AMD Ryzen 7 5700X - Sold 3x for $145 Each.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold 3x for $145 Each"
+  },
+  {
+    "id": "hardware-007",
+    "title": "ASUS ROG Gaming Laptop - i7-4710HQ, GTX 860M, 16GB RAM, 1TB SATA SSD",
+    "category": "systems",
+    "images": [
+      "assets/images/refurb_hardware/ASUS ROG Gaming Laptop - i7-4710HQ, GTX 860M, 16GB RAM, 1TB SATA SSD - Sold for $300.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $300"
+  },
+  {
+    "id": "hardware-008",
+    "title": "ASUS TUF GeForce RTX 3080 10GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/ASUS TUF GeForce RTX 3080 10GB GPU - Sold for $300.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $300"
+  },
+  {
+    "id": "hardware-009",
+    "title": "Apple Mac Mini 2018 (8th Gen i5, 8GB RAM, 256GB SSD)",
+    "category": "systems",
+    "images": [
+      "assets/images/refurb_hardware/Apple Mac Mini 2018 (8th Gen i5, 8GB RAM, 256GB SSD) - Sold 3x for $250 Each.png"
+    ],
+    "sold": true,
+    "saleText": "Sold 3x for $250 Each"
+  },
+  {
+    "id": "hardware-010",
+    "title": "Colorful GeForce RTX 3060 Ti (Missing IO Plate)",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Colorful GeForce RTX 3060 Ti (Missing IO Plate) - Sold for $160.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $160"
+  },
+  {
+    "id": "hardware-011",
+    "title": "Core i7 12700K + ASRock Z690 LGA1700 Motherboard COMBO",
+    "category": "bundles",
+    "images": [
+      "assets/images/refurb_hardware/Core i7 12700K + ASRock Z690 LGA1700 Motherboard COMBO - Sold for $200.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $200"
+  },
+  {
+    "id": "hardware-012",
+    "title": "Corsair Vengeance RGB 16GB DDR4 3200",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/Corsair Vengeance RGB 16GB DDR4 3200 - Sold for $25.HEIC"
+    ],
+    "sold": true,
+    "saleText": "Sold for $25"
+  },
+  {
+    "id": "hardware-013",
+    "title": "Custom Painted AMD Wraith Cooler",
+    "category": "cooling",
+    "images": [
+      "assets/images/refurb_hardware/Custom Painted AMD Wraith Cooler - Sold 2x for $10 Each.HEIC"
+    ],
+    "sold": true,
+    "saleText": "Sold 2x for $10 Each"
+  },
+  {
+    "id": "hardware-014",
+    "title": "Custom Painted EVGA XC3 RTX 3070 8GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Custom Painted EVGA XC3 RTX 3070 8GB GPU - Sold for $220.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $220"
+  },
+  {
+    "id": "hardware-015",
+    "title": "Dell GeForce RTX 3090 24GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Dell GeForce RTX 3090 24GB GPU - Sold 3x for $700 Each.png"
+    ],
+    "sold": true,
+    "saleText": "Sold 3x for $700 Each"
+  },
+  {
+    "id": "hardware-016",
+    "title": "Dell RX 6500XT 4GB GDDR6 OEM GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Dell RX 6500XT 4GB GDDR6 OEM GPU - Sold for $69 .png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $69 "
+  },
+  {
+    "id": "hardware-017",
+    "title": "EVGA GeForce GTX 1070 Ti 8G GPU (w: Original Box)",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/EVGA GeForce GTX 1070 Ti 8G GPU (w: Original Box) - Sold for $110.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $110"
+  },
+  {
+    "id": "hardware-018",
+    "title": "EVGA XC3 RTX 3070 8GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/EVGA XC3 RTX 3070 8GB GPU - Sold for $230.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $230"
+  },
+  {
+    "id": "hardware-019",
+    "title": "Founders Edition GTX 1070 8GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Founders Edition GTX 1070 8GB GPU - Sold for $95.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $95"
+  },
+  {
+    "id": "hardware-020",
+    "title": "Founders Edition GTX Titan X Pascal 12GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Founders Edition GTX Titan X Pascal 12GB GPU - Sold 2x for $180 Each.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold 2x for $180 Each"
+  },
+  {
+    "id": "hardware-021",
+    "title": "G-Skill Ripjaws 16GB DDR4 3200 (Red)",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/G-Skill Ripjaws 16GB DDR4 3200 (Red) - Sold for $20.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $20"
+  },
+  {
+    "id": "hardware-022",
+    "title": "GeForce GT 630 GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/GeForce GT 630 GPU - Sold for $5.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $5"
+  },
+  {
+    "id": "hardware-023",
+    "title": "Gigabyte B550M-K Motherboard",
+    "category": "motherboards",
+    "images": [
+      "assets/images/refurb_hardware/Gigabyte B550M-K Motherboard - Sold for $50.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $50"
+  },
+  {
+    "id": "hardware-024",
+    "title": "Gigabyte GTX 1080 Ti 11GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Gigabyte GTX 1080 Ti 11GB GPU - Sold for $169.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $169"
+  },
+  {
+    "id": "hardware-025",
+    "title": "Gigabyte Vision GeForce RTX 3070 Ti",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Gigabyte Vision GeForce RTX 3070 Ti - Sold for $359.JPG"
+    ],
+    "sold": true,
+    "saleText": "Sold for $359"
+  },
+  {
+    "id": "hardware-026",
+    "title": "Intel Core i3-4160 CPU",
+    "category": "cpus",
+    "images": [
+      "assets/images/refurb_hardware/Intel Core i3-4160 CPU - Sold for $0.50.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $0.50"
+  },
+  {
+    "id": "hardware-027",
+    "title": "Intel Core i3-7100 CPU",
+    "category": "cpus",
+    "images": [
+      "assets/images/refurb_hardware/Intel Core i3-7100 CPU - Sold for $0.50.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $0.50"
+  },
+  {
+    "id": "hardware-028",
+    "title": "Intel Core i7 7700 + HP Stock Cooler Combo",
+    "category": "bundles",
+    "images": [
+      "assets/images/refurb_hardware/Intel Core i7 7700 + HP Stock Cooler Combo - Sold for $76.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $76"
+  },
+  {
+    "id": "hardware-029",
+    "title": "Intel NUC8i3BEH | 1TB Storage, 8GB RAM, Intel i3, Windows 11 Pro | PC Desktop",
+    "category": "systems",
+    "images": [
+      "assets/images/refurb_hardware/Intel NUC8i3BEH | 1TB Storage, 8GB RAM, Intel i3, Windows 11 Pro | PC Desktop - Sold 10x for $130 Each.png"
+    ],
+    "sold": true,
+    "saleText": "Sold 10x for $130 Each"
+  },
+  {
+    "id": "hardware-030",
+    "title": "Killsre 16GB DDR4 3200",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/Killsre 16GB DDR4 3200 - Sold for $20.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $20"
+  },
+  {
+    "id": "hardware-031",
+    "title": "Lenovo Blower RTX 2080 8GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Lenovo Blower RTX 2080 8GB GPU - Sold for $195.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $195"
+  },
+  {
+    "id": "hardware-032",
+    "title": "Lenovo Thinkpad - i7-6600U, GeForce GTX 930M, 24GB RAM, 1TB NVMe SSD",
+    "category": "systems",
+    "images": [
+      "assets/images/refurb_hardware/Lenovo Thinkpad - i7-6600U, GeForce GTX 930M, 24GB RAM, 1TB NVMe SSD - Sold for $240.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $240"
+  },
+  {
+    "id": "hardware-033",
+    "title": "Machinist B450M AM4 Motherboard",
+    "category": "motherboards",
+    "images": [
+      "assets/images/refurb_hardware/Machinist B450M AM4 Motherboard - Sold for $35.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $35"
+  },
+  {
+    "id": "hardware-034",
+    "title": "OEM GeForce RTX 3070 8GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/OEM GeForce RTX 3070 8GB GPU - Sold for $240.HEIC"
+    ],
+    "sold": true,
+    "saleText": "Sold for $240"
+  },
+  {
+    "id": "hardware-035",
+    "title": "PNY GeForce GTX 1060 6GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/PNY GeForce GTX 1060 6GB GPU - Sold for $55.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $55"
+  },
+  {
+    "id": "hardware-036",
+    "title": "ROG Strix GTX 1080 Ti 11GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/ROG Strix GTX 1080 Ti 11GB GPU - Sold for $169.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $169"
+  },
+  {
+    "id": "hardware-037",
+    "title": "SK Hynix 16GB DDR3 1600 Non-ECC RAM",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/SK Hynix 16GB DDR3 1600 Non-ECC RAM - Sold for $15.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $15"
+  },
+  {
+    "id": "hardware-038",
+    "title": "Sapphire Nitro RX 6700XT 12GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Sapphire Nitro RX 6700XT 12GB GPU - Sold for $270.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $270"
+  },
+  {
+    "id": "hardware-039",
+    "title": "Sapphire Pulse RX 5700 XT 8GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/Sapphire Pulse RX 5700 XT 8GB GPU - Sold for $149.HEIC"
+    ],
+    "sold": true,
+    "saleText": "Sold for $149"
+  },
+  {
+    "id": "hardware-040",
+    "title": "Seagate 2TB SATA HDD",
+    "category": "storage",
+    "images": [
+      "assets/images/refurb_hardware/Seagate 2TB SATA HDD - Sold 5x for $30 Each.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold 5x for $30 Each"
+  },
+  {
+    "id": "hardware-041",
+    "title": "Trident Z RGB 16GB DDR4 3200",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/Trident Z RGB 16GB DDR4 3200 - Sold for $25.HEIC"
+    ],
+    "sold": true,
+    "saleText": "Sold for $25"
+  },
+  {
+    "id": "hardware-042",
+    "title": "XFX AMD Radeon RX 6700 10GB GPU",
+    "category": "gpus",
+    "images": [
+      "assets/images/refurb_hardware/XFX AMD Radeon RX 6700 10GB GPU - Sold for $215.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $215"
+  },
+  {
+    "id": "hardware-043",
+    "title": "XPG 16GB DDR4 3200",
+    "category": "memory",
+    "images": [
+      "assets/images/refurb_hardware/XPG 16GB DDR4 3200 - Sold for $20.heic"
+    ],
+    "sold": true,
+    "saleText": "Sold for $20"
+  },
+  {
+    "id": "hardware-044",
+    "title": "i9-13900K + Z790 Gaming WiFi DDR5 Motherboard Bundle",
+    "category": "bundles",
+    "images": [
+      "assets/images/refurb_hardware/i9-13900K + Z790 Gaming WiFi DDR5 Motherboard Bundle - Sold for $420.png"
+    ],
+    "sold": true,
+    "saleText": "Sold for $420"
+  }
+]

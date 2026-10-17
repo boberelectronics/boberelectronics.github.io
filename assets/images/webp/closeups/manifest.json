@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "originalsReadOnly": true,
+  "recipe": "tools/build_closeup_derivatives.py",
+  "recommendedOrder": [
+    "closeup-01",
+    "closeup-07",
+    "closeup-05",
+    "closeup-08",
+    "closeup-03",
+    "closeup-04",
+    "closeup-02",
+    "closeup-06"
+  ],
+  "items": [
+    {
+      "id": "closeup-01",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.54.49 PM.png",
+      "sourceSHA256": "df26314f007f75989a93b77ed4def4cf1a6cb373048f888750e729397dabb710",
+      "sourceBytes": 5287845,
+      "sourceWidth": 2560,
+      "sourceHeight": 1618,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "White liquid-cooling block and braided tubes above a black graphics card, beside an illuminated case fan.",
+      "caption": "Cooling loops and sleeved cables.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-01-640.webp",
+        "width": 640,
+        "height": 405,
+        "bytes": 33658,
+        "sha256": "a6242066ac21a36f8cbf5c9fcc2b3f935cc560cb7f5867911cd936240051eaff"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-01-1280.webp",
+        "width": 1280,
+        "height": 809,
+        "bytes": 97004,
+        "sha256": "0885dd90d0b9326d84470c0ee32f95a6e44626b8be6d0fcac407f180db14cf12"
+      }
+    },
+    {
+      "id": "closeup-02",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.56.22 PM.png",
+      "sourceSHA256": "4f9571f87f4f2ab221ae074bab6225a331d1638a78c0436d83bb0b6154834f61",
+      "sourceBytes": 4195791,
+      "sourceWidth": 2382,
+      "sourceHeight": 1604,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "Illuminated EVGA graphics-card lettering beside heatsink fins and white sleeved power cables.",
+      "caption": "Heatsink fins. Sleeved power.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-02-640.webp",
+        "width": 640,
+        "height": 431,
+        "bytes": 24632,
+        "sha256": "646b22b7d16fac827e43eeab2f1b563381551db621665ff098b54d5cb1e6856e"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-02-1280.webp",
+        "width": 1280,
+        "height": 862,
+        "bytes": 62904,
+        "sha256": "d12eb5e0592a2f76f21b062a709728de6da79d04909bc8c97b33f020b230c9c0"
+      }
+    },
+    {
+      "id": "closeup-03",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.56.39 PM.png",
+      "sourceSHA256": "900ab0ecaf5000853381b05ec071c0e4de7b56e4a5762a00b2eae1f6efd1bdc7",
+      "sourceBytes": 5097191,
+      "sourceWidth": 2106,
+      "sourceHeight": 1700,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "White spiral-lit liquid-cooling block beside a metallic motherboard heatsink and illuminated case fans.",
+      "caption": "A closer look at liquid cooling.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-03-640.webp",
+        "width": 640,
+        "height": 517,
+        "bytes": 33224,
+        "sha256": "d79d306c4e715e8da7f5ff60cc087369ad7c6cf3f839e0d67602ff242b58bb35"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-03-1280.webp",
+        "width": 1280,
+        "height": 1033,
+        "bytes": 92752,
+        "sha256": "3d1cb09a04e2227496a873a249c1e2a71ee043b89449ba1b06d9aef853e129e5"
+      }
+    },
+    {
+      "id": "closeup-04",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.56.57 PM.png",
+      "sourceSHA256": "b290ca7fd7b9bbf4f774f551647fc1c90fe56c1cf3b9a77598a28bc371699300",
+      "sourceBytes": 4204051,
+      "sourceWidth": 2278,
+      "sourceHeight": 1404,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "Blue-lit rear fan and a black spiral-lit cooling block beside a metallic motherboard heatsink.",
+      "caption": "Light across the cooling block.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-04-640.webp",
+        "width": 640,
+        "height": 394,
+        "bytes": 26482,
+        "sha256": "ba8fd7d397fd51f0869a75ed1599c46ee19f24fbc433fd16eb98b683d4a85381"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-04-1280.webp",
+        "width": 1280,
+        "height": 789,
+        "bytes": 96558,
+        "sha256": "c1b3383cb7fe3702cf6c1de2797ce34e8216148a3219fdb641fd95d7cacc5361"
+      }
+    },
+    {
+      "id": "closeup-05",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.57.35 PM.png",
+      "sourceSHA256": "82650ab3a1563860dca743a92df9a8d9c3cb214748b10e010954748be0ed5738",
+      "sourceBytes": 4342506,
+      "sourceWidth": 2020,
+      "sourceHeight": 1546,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "White braided coolant tubes curve around an illuminated cooling block above a black graphics-card backplate.",
+      "caption": "Lines, light, and materials.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-05-640.webp",
+        "width": 640,
+        "height": 490,
+        "bytes": 41584,
+        "sha256": "8382eda940c483183b19cf6284806331a2a2f34b5d84626e30e980483278e443"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-05-1280.webp",
+        "width": 1280,
+        "height": 980,
+        "bytes": 121556,
+        "sha256": "a2bacc59ef86dcdb2da1ec23cc5a36ea525dcd5d0f78cacd3cbc25202c28993c"
+      }
+    },
+    {
+      "id": "closeup-06",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.57.47 PM.png",
+      "sourceSHA256": "b4163baca664bca2106c30c2b6651717f1b16075db3febbf8984d68ab2d129b7",
+      "sourceBytes": 4710893,
+      "sourceWidth": 2554,
+      "sourceHeight": 1708,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "Black ZOTAC GAMING graphics card with white sleeved power cables, a tower air cooler, and white case fans.",
+      "caption": "Air cooling, neatly arranged.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-06-640.webp",
+        "width": 640,
+        "height": 428,
+        "bytes": 23890,
+        "sha256": "577ac49717ceb0199d1f67223131509a9556d4674e420218b5a03e37cd37507b"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-06-1280.webp",
+        "width": 1280,
+        "height": 856,
+        "bytes": 67348,
+        "sha256": "1849fd5540db5805fde52b8f8a5b831ed1f60ded2e32b19ed4eabce34d349625"
+      }
+    },
+    {
+      "id": "closeup-07",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.44.52 PM.png",
+      "sourceSHA256": "6ca8ed973fb310dcb1b10c948e1c618c7b73575db4eaa62d3a4720f4a94b86a1",
+      "sourceBytes": 5720661,
+      "sourceWidth": 2294,
+      "sourceHeight": 1706,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "Blue illuminated cooling fan beside two Corsair memory modules in a dark PC interior.",
+      "caption": "Fan light and memory details.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-07-640.webp",
+        "width": 640,
+        "height": 476,
+        "bytes": 14208,
+        "sha256": "f5d1d41bd06550a64bd5ce0e2d94e87eaaf89c87e9831aec92d383b5570b4e90"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-07-1280.webp",
+        "width": 1280,
+        "height": 952,
+        "bytes": 38242,
+        "sha256": "ca9bee5905014bc8ff58c07d30db91dc2768f33a4721b075d176ae14d834a9b6"
+      }
+    },
+    {
+      "id": "closeup-08",
+      "source": "assets/images/closeups/Screenshot 2026-10-17 at 1.45.23 PM.png",
+      "sourceSHA256": "a86468fa81b66019a54399369d085357bc7b6b57ff8c0d24b582e5b1df82044e",
+      "sourceBytes": 6862848,
+      "sourceWidth": 2620,
+      "sourceHeight": 1736,
+      "sourceProfile": "Display",
+      "exifOrientation": 1,
+      "orientationApplied": true,
+      "colorSpace": "sRGB",
+      "colorConversion": "ICC managed conversion to sRGB (perceptual)",
+      "crop": null,
+      "alt": "Blue illuminated EVGA GeForce RTX lettering below exposed graphics-card heatsink fins and a black backplate.",
+      "caption": "Heatsink fins and blue light.",
+      "thumbnail": {
+        "path": "assets/images/webp/closeups/closeup-08-640.webp",
+        "width": 640,
+        "height": 424,
+        "bytes": 21712,
+        "sha256": "26c7a9d39a522876379a14e4e2ee24967bc3040f5929bb8525492b0ffa5f2d6a"
+      },
+      "fullImage": {
+        "path": "assets/images/webp/closeups/closeup-08-1280.webp",
+        "width": 1280,
+        "height": 848,
+        "bytes": 54952,
+        "sha256": "cd74abed65f0f7576af34d9e8c031a05f2d00f967e8d475ea968623be2e38646"
+      }
+    }
+  ]
+}
