@@ -65,6 +65,14 @@ The revised page was inspected in local Chromium at 1440×1000, 390×844 and 768
 
 Current screenshots are `tools/qa/refinements-desktop-hero.jpg`, `refinements-desktop-marketplaces.jpg`, `refinements-desktop-pc-archive.jpg`, `refinements-mobile-hero.jpg`, `refinements-mobile-marketplaces.jpg`, `refinements-mobile-show-all.jpg`, and `refinements-tablet-marketplaces.jpg`.
 
+## October 18 copy and title revision
+
+All nine featured cards show the original archive filename title before its sale-price suffix, with a separate price and no duplicated component recap. All nine descriptions were lightly varied from the owner's original copy; original source prose remains in `content/featured.txt`. Public shorthand labels now read “refurbished.”
+
+`node tools/validate-data.mjs`, `node tools/validate-site.mjs`, and `git diff --check` passed. The optional Argon reference files were removed from the workspace by the owner; their absence is reported as a skip, while remaining production references and inventory provenance are checked. The quantity-search fixture now includes the newly documented three Ryzen 7 5700X sales.
+
+Local browser inspection confirmed full titles at desktop and 390px mobile widths, no horizontal overflow, expanded navigation labels fitting at the 1001px desktop breakpoint, and the revised description appearing in the native build dialog. Browser console warnings/errors were empty. Screenshots: `tools/qa/full-featured-titles-desktop.jpg`, `tools/qa/full-featured-titles-mobile.jpg`, and `tools/qa/featured-description-revision.jpg`.
+
 ## Practical limits
 
 Isolated DOM checks exercise production handlers and data; they do not verify browser layout. Browser checks use local Chromium viewport overrides. Physical touch devices, Safari, Firefox and a throttled Lighthouse benchmark have not been measured. Marketplace URLs match the owner’s supplied links; external account availability/current listings were not audited.

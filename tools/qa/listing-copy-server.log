@@ -1,0 +1,24 @@
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /index.html HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /style.css?v=20261018-listing-copy-1 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/fonts/inter-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/closeups/closeup-01-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /data.js?v=20261018-listing-copy-1 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /script.js?v=20261018-listing-copy-1 HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/logo.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/fonts/jetbrains-mono-regular.woff2 HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/closeups/closeup-07-1280.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/featured/5080White_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/featured/5070White_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/featured/3080Black_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/featured/9070White_SIDE_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/featured/3080White_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:34] "GET /assets/images/webp/featured/3070Black_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:35] "GET /assets/images/webp/featured/3080_2Black_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:35] "GET /assets/images/webp/featured/6900XT_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:32:35] "GET /assets/images/webp/featured/5070_FRONT_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:34:21] "GET /assets/images/webp/featured/5080White_FRONT_full.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:34:21] "GET /assets/images/webp/featured/5080White_SIDE_thumb.webp HTTP/1.1" 304 -
+127.0.0.1 - - [18/Oct/2026 22:34:21] "GET /assets/images/webp/featured/5080White_BACK_thumb.webp HTTP/1.1" 304 -
+Serving HTTP on 127.0.0.1 port 4174 (http://127.0.0.1:4174/) ...
+
+Keyboard interrupt received, exiting.

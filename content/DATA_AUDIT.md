@@ -4,7 +4,7 @@
 
 ## Original records preserved
 
-- Nine featured PC builds retain exact titles, prices, full descriptions, component lines, and thirty assigned gallery photographs. SIDE2 views remain with `3080_2Black`, `5070`, and `6900XT` only.
+- Nine featured PC builds use the original archive filename titles, with sale-price suffixes shown separately. Their descriptions were lightly varied at the owner’s request on October 18; prices, component lines, and thirty assigned gallery photographs remain unchanged. The original prose remains in content/featured.txt. SIDE2 views remain with `3080_2Black`, `5070`, and `6900XT` only.
 - All 131 sold archive records and their original PNGs remain preserved. The PC-only runtime view displays 130 actual systems and excludes the stored Thinkpad laptop.
 - Five featured reviews and thirty-eight additional reviews retain supplied wording, names, and dates. Only the five highlighted reviews render together in the current public layout; the ending additional-feedback section was removed at the owner’s request, without deleting its 38 data records. No individual ratings, marketplace fields, or verified-buyer claims were added. Editorial review 31 has only an inconsequential trailing-space difference from the original prototype wording.
 - The four old refurbished records retain their exact original fields and editorial associations as a historical snapshot. They no longer create runtime product cards.
@@ -34,7 +34,7 @@ Important wording remains exact: the two Intel Core i3 sales are **$0.50** each;
 
 The new Thinkpad hardware record says **$240**. The separate original sold-build archive record still says **$160**. Photograph identity does not justify substituting either sale price for the other.
 
-Six photo-audited IDs select records from this same collection: **025, 042, 044, 029, 032, 041** — Gigabyte Vision RTX 3070 Ti, XFX RX 6700, i9/Z790 bundle, Intel NUC, Lenovo Thinkpad, and Trident Z RGB memory. All six hardware highlights and all nine featured PC cards render immediately. The hardware archive starts with twelve records and reveals all current matches in one action; search/category changes restore the preview. Visible numeric counters and featured expansion controls are removed. Product cards and lightboxes retain exact sale wording; all new entries are explicitly past sales.
+Six photo-audited IDs select records from this same collection: **013, 042, 044, 029, 007, 041** — Custom Painted AMD Wraith Cooler, XFX RX 6700, i9/Z790 bundle, Intel NUC, ASUS ROG laptop, and Trident Z RGB memory. All six hardware highlights and all nine featured PC cards render immediately. The hardware archive starts with twelve records and reveals all current matches in one action; search/category changes restore the preview. Visible numeric counters and featured expansion controls are removed. Product cards and lightboxes retain exact sale wording; all new entries are explicitly past sales.
 
 ## Runtime data shape
 

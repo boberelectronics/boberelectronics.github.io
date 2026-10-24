@@ -94,7 +94,7 @@
   }
 
   function parseBuildSummary(build) {
-    const [specifications, descriptor = 'Custom Gaming PC'] = build.title.split(/\s*—\s*/);
+    const [specifications, descriptor = 'Custom Gaming PC'] = build.title.split(/\s+[-—]\s+/);
     const parts = specifications.split(',').map(part => part.trim());
     const gpu = parts.find(part => /^(RTX|RX|GTX)\b/i.test(part)) || parts[0] || '';
     const cpu = parts.find(part => /^(Ryzen|Core|Intel|i[3579]|Xeon)\b/i.test(part)) || '';
@@ -191,23 +191,19 @@
     const fragment = document.createDocumentFragment();
     featuredOrder.forEach(index => {
       const build = data.featuredBuilds[index];
-      const summary = parseBuildSummary(build);
       const card = element('article', 'build-card');
       const button = element('button', 'build-open');
       button.type = 'button';
       button.dataset.build = index;
       button.setAttribute('aria-label', `View full specifications and photographs: ${build.title}, ${build.price}`);
       const photo = element('span', 'build-photo');
-      const cardPhoto = index === 0 ? build.images.find(path => /_SIDE\.png$/i.test(path)) || build.images[0] : build.images[0];
-      photo.append(image(getWebpPath(cardPhoto), build.title));
+      photo.append(image(getWebpPath(build.images[0]), build.title));
       const body = element('span', 'build-body');
       const heading = element('span', 'build-heading');
-      heading.append(element('span', 'build-name', summary.gpu), element('span', 'build-price', build.price));
+      heading.append(element('span', 'build-name', build.title), element('span', 'build-price', build.price));
       const footer = element('span', 'build-bottom');
       footer.append(element('span', '', 'Specs & photos'), arrow());
-      body.append(heading,
-        element('span', 'build-cpu', summary.cpu),
-        element('span', 'build-specs', [summary.ram, summary.storage].filter(Boolean).join(' · ')), footer);
+      body.append(heading, footer);
       button.append(photo, body);
       card.append(button);
       fragment.append(card);
@@ -597,7 +593,7 @@
     if (!build || !dialog) return;
     activeBuild = build;
     activeImage = 0;
-    document.getElementById('modal-subtitle').textContent = `Featured past build · ${parseBuildSummary(build).descriptor}`;
+    document.getElementById('modal-subtitle').textContent = 'Featured past build';
     document.getElementById('modal-title').textContent = build.title;
     document.getElementById('modal-price').textContent = build.price;
     document.getElementById('modal-desc').textContent = build.description;

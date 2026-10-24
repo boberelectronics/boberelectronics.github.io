@@ -1,16 +1,16 @@
 /* Bober Electronics inventory and customer feedback.
  * This is the authoritative runtime content source.
- * Original product titles, prices, descriptions, component lines, photo associations,
+ * Original product titles, prices, component lines, photo associations,
  * archive filenames and customer review wording are preserved from the reconciled inventory.
- * content/*.txt are retained as the original editorial source records.
+ * Featured descriptions are lightly edited for variety; content/*.txt retain the original copy.
  * Prices describe the photographed builds; current availability is confirmed through the storefronts.
  */
 window.BOBER_DATA = {
   "featuredBuilds": [
     {
-      "title": "RX 9070 XT, 4TB NVMe SSD, Ryzen 5 7600X, 16GB DDR5, WiFi — Liquid Cooled Gaming PC",
+      "title": "RX 9070 XT, 4TB NVMe SSD, Ryzen 5 7600X, 16GB DDR5, WiFi - Custom Gaming PC",
       "price": "$1,499",
-      "description": "Up next for sale is a PC designed to crush 4K gaming with maximum settings. Equipped with the beastly 16GB RX 9070 XT and the Ryzen 5 7600X, this system has the raw performance to handle anything you throw at it.",
+      "description": "Built for 4K gaming with the 16GB RX 9070 XT and Ryzen 5 7600X. A 4TB NVMe SSD provides plenty of room for games, with a 360mm AIO handling CPU cooling.",
       "components": [
         "GPU: ASRock Radeon RX 9070 XT 16GB",
         "CPU: AMD Ryzen 5 7600X (6C/12T)",
@@ -25,9 +25,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 5080, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD, WiFi — 4K Gaming PC",
+      "title": "RTX 5080, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD, WiFi - High End Gaming PC",
       "price": "$2,050",
-      "description": "Up next for sale is a PC designed to crush 4K gaming with maximum settings. Equipped with the beastly 16GB RTX 5080 and the Ryzen 7 7800X3D, this system has the raw performance to handle anything you throw at it.",
+      "description": "This system pairs the 16GB RTX 5080 with a Ryzen 7 7800X3D for 4K gaming. It also includes 32GB of DDR5 memory and a 2TB NVMe SSD for games, applications, and everyday multitasking.",
       "components": [
         "GPU: PNY NVIDIA GeForce RTX 5080 16GB",
         "CPU: AMD Ryzen 7 7800X3D (8C/16T)",
@@ -42,9 +42,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 5070 Ti, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD, WiFi — High End 4K Gaming PC",
+      "title": "RTX 5070 Ti, Ryzen 7 7800X3D, 32GB DDR5, 2TB NVMe SSD, WiFi - High End Gaming PC",
       "price": "$1,870",
-      "description": "Up next for sale is a PC designed to crush 4K gaming with maximum settings. Equipped with the beastly newly released 16GB RTX 5070 Ti and the Ryzen 7 7800X3D.",
+      "description": "A 4K gaming build around the 16GB RTX 5070 Ti and Ryzen 7 7800X3D. Corsair Vengeance RGB DDR5 memory and a 2TB NVMe SSD round out the system, with plenty of space for a game library.",
       "components": [
         "GPU: Zotac SOLID GeForce RTX 5070 Ti 16GB GDDR7",
         "CPU: AMD Ryzen 7 7800X3D (8C/16T)",
@@ -58,9 +58,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 3080, Ryzen 5 7500F, 32GB DDR5, 1TB NVMe SSD, WiFi — Custom Gaming PC",
+      "title": "RTX 3080, Ryzen 5 7500F, 32GB DDR5, 1TB NVMe SSD - Liquid Cooled Gaming PC",
       "price": "$1,150",
-      "description": "Up next for sale is a PC designed to crush 1440p gaming with high FPS. Equipped with the beastly RTX 3080 and the Ryzen 5 7500F, this system not only has the raw performance to handle almost anything you throw at it, but can also easily be upgraded down the line.",
+      "description": "This PC combines an RTX 3080 with the Ryzen 5 7500F for high FPS 1440p gaming. The B650 platform leaves room for upgrades down the line, with 32GB of DDR5 and a 1TB NVMe SSD already installed.",
       "components": [
         "GPU: EVGA FTW3 GeForce RTX 3080 (Used)",
         "CPU: AMD Ryzen 5 7500F (6C/12T)",
@@ -78,9 +78,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi — Custom Gaming PC",
+      "title": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC",
       "price": "$970",
-      "description": "Up next for sale is a PC designed to crush 1440p gaming with high FPS. Equipped with the beastly RTX 3080 and the 8 core Ryzen 7 3700X, this system has the raw performance to handle almost anything you throw at it.",
+      "description": "Equipped with an RTX 3080 and the 8 core Ryzen 7 3700X, this build was put together for 1440p gaming. The 32GB of RAM and 1TB NVMe SSD also make it a useful system for everyday work.",
       "components": [
         "GPU: Dell GeForce RTX 3080 (Used)",
         "CPU: AMD Ryzen 7 3700X (8C/16T)",
@@ -94,9 +94,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 3070, Ryzen 5 5500, 16GB DDR4, 2TB Storage, WiFi — Custom Gaming PC",
+      "title": "RTX 3070, Ryzen 5 5500, 16GB DDR4, 2TB Storage, WiFi - Liquid Cooled Gaming PC",
       "price": "$875",
-      "description": "Up next for sale is a PC designed to crush 1080p and 1440p gaming. Equipped with the 8GB RTX 3070 and the Ryzen 5 5500, this system has the raw performance to handle almost any game you throw at it.",
+      "description": "A gaming PC for 1080p and 1440p, using the 8GB RTX 3070 Founders Edition and Ryzen 5 5500. An SSD sits alongside a 2TB hard drive, providing a mix of fast storage and extra space for games.",
       "components": [
         "GPU: GeForce RTX 3070 8GB Founders Edition (Used)",
         "CPU: AMD Ryzen 5 5500 (6C/12T)",
@@ -115,9 +115,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi — Liquid Cooled Gaming PC",
+      "title": "RTX 3080, Ryzen 7 3700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Liquid Cooled Gaming PC",
       "price": "$1,150",
-      "description": "Up next for sale is a PC designed to crush 1440p gaming with high FPS. Equipped with the beastly RTX 3080 and the 8 core Ryzen 7 3700X, this system has the raw performance to handle almost anything you throw at it.",
+      "description": "For this 1440p build, the RTX 3080 is paired with an 8 core Ryzen 7 3700X and 32GB of RAM. A 360mm AIO, black cable extensions, and seven ARGB fans complete the setup.",
       "components": [
         "GPU: Dell GeForce RTX 3080 (Used)",
         "CPU: AMD Ryzen 7 3700X (8C/16T)",
@@ -138,9 +138,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RTX 5070, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi — Liquid Cooled Gaming PC",
+      "title": "RTX 5070, Ryzen 7 5700X, 32GB DDR4, 1TB NVMe SSD, WiFi - Liquid Cooled Gaming PC",
       "price": "$1,330",
-      "description": "Up next for sale is a PC designed to crush 1440p gaming and productivity workloads. Equipped with the beastly RTX 5070 and the 8 core Ryzen 7 5700X, this system has the raw performance to handle nearly anything you throw at it, whether that be ray tracing or video editing.",
+      "description": "Designed for 1440p gaming and productivity, with an RTX 5070, an 8 core Ryzen 7 5700X, and 32GB of RAM. This white build also includes a 360mm liquid cooler and a 1TB NVMe SSD.",
       "components": [
         "GPU: NVIDIA GeForce RTX 5070 12GB GDDR7 (Used)",
         "CPU: AMD Ryzen 7 5700X (8C/16T)",
@@ -160,9 +160,9 @@ window.BOBER_DATA = {
       ]
     },
     {
-      "title": "RX 6900 XT, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi — Custom Gaming PC",
+      "title": "RX 6900 XT, Ryzen 5 5600, 16GB DDR4, 1TB NVMe SSD, WiFi - Custom Gaming PC",
       "price": "$780",
-      "description": "Up next for sale is a PC designed to crush 1440p and 4K gaming. Equipped with the beastly 16GB RX 6900 XT and the 6 core Ryzen 5 5600, this system has the raw performance to handle almost anything you throw at it.",
+      "description": "The 16GB RX 6900 XT Red Devil and Ryzen 5 5600 make this a capable PC for 1440p and 4K gaming. It includes 16GB of RAM, a 1TB NVMe SSD, and built-in WiFi.",
       "components": [
         "GPU: AMD Radeon RX 6900XT Red Devil 16GB (Used)",
         "CPU: AMD Ryzen 5 5600 (6C/12T)",

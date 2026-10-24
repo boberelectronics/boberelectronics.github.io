@@ -15,9 +15,9 @@ const data = JSON.parse(JSON.stringify(sandbox.window.BOBER_DATA));
 const original = JSON.parse(read('tools/original-content-manifest.json'));
 const digest = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 
-// Digests were captured before the redesign. They protect every original text
-// field and photo association, rather than checking only record totals.
-for (const key of ['featuredBuilds', 'featuredReviews', 'additionalReviews']) {
+// Digests were captured before the redesign. Reviews remain verbatim; featured
+// titles now follow archive filenames and descriptions are edited by the owner.
+for (const key of ['featuredReviews', 'additionalReviews']) {
   assert.equal(data[key].length, original[key].count, `${key}: missing original records`);
   assert.equal(digest(data[key]), original[key].sha256, `${key}: original content changed`);
 }
@@ -100,13 +100,17 @@ const records = file => read(file).split(/\r?\n(?=\[)/).map(block => {
 });
 const featuredSource = records('content/featured.txt');
 assert.equal(featuredSource.length, 9);
+assert.equal(data.featuredBuilds.length, featuredSource.length);
+const originalFeatured = data.featuredBuilds.map((build, i) => ({ ...build, title: featuredSource[i].title, description: featuredSource[i].description }));
+assert.equal(digest(originalFeatured), original.featuredBuilds.sha256, 'Original featured prices, specifications or photo associations changed');
+const filenameTitles = new Set(data.soldBuilds.map(build => build.filename.replace(/\.[^.]+$/, '').replace(/,\s*Sold\b.*$/i, '').trim()));
 for (const [i, source] of featuredSource.entries()) {
   const build = data.featuredBuilds[i];
-  assert.equal(build.title, source.title);
+  assert.ok(filenameTitles.has(build.title), `Featured title does not match an original archive filename: ${build.title}`);
   assert.equal(build.price, source.price);
-  assert.equal(build.description, source.description);
   assert.deepEqual(build.components, source.components.split(' | '));
   assert.deepEqual(build.images, source.images.split(' | '));
+  assert.match(build.images[0], /_FRONT\.png$/i, `Featured build should start with its front photo: ${build.title}`);
 }
 const refurbSource = records('content/refurbished.txt');
 assert.equal(refurbSource.length, 4);
@@ -171,7 +175,7 @@ assert.ok(utils.getWebpPath(data.refurbishedItems[3].image).includes('12700k%3Az
 console.log(`PASS: 9 featured builds / ${featuredPhotos} correctly associated gallery photos / 3 SIDE2 views.`);
 console.log(`PASS: All 4 original refurbished records preserved (${data.refurbishedItems.length} historical items) / 131 unique archive records and original photos.`);
 console.log('PASS: 5 featured + 38 additional reviews match the original wording, identities and dates.');
-console.log('PASS: Every original content digest and all independent editorial records match.');
+console.log('PASS: Original prices, specifications, photo associations and reviews match; featured titles follow archive filenames, with owner-authorized description edits.');
 console.log('PASS: Production GPU tier/model/suffix ordering and 14 legacy CPU overrides, including modern Intel CPU regressions.');
 console.log(`PASS: ${optimizedContentPhotos} archive WebP derivatives preserve original associations and uncropped aspect ratios; all 131 archive thumbnails total ${(archiveThumbBytes / 1024 / 1024).toFixed(2)} MiB.`);
 await import('./validate-hardware-data.mjs');

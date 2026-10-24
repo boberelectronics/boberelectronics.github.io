@@ -86,7 +86,7 @@ search.emit('input');
 assert.deepEqual(new Set(revealAll(2)), new Set(['hardware-026', 'hardware-027']), 'Decimal sale prices must remain searchable');
 search.value = 'Sold 3x';
 search.emit('input');
-assert.deepEqual(new Set(revealAll(2)), new Set(['hardware-009', 'hardware-015']), 'Documented sale quantities must remain searchable');
+assert.deepEqual(new Set(revealAll(3)), new Set(['hardware-006', 'hardware-009', 'hardware-015']), 'Documented sale quantities must remain searchable');
 filter.value = 'cooling';
 search.value = '3090';
 search.emit('input');
